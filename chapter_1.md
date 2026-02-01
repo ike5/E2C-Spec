@@ -16,32 +16,32 @@ then see it used in sentences that only contain words you've already learned.
 
 ### Word 2: 个 (a / one [measure word])
 
-**Sentences:**
+**Sentences:**  
 一个
 
 ---
 
 ### Word 3: 男孩 (boy)
 
-**Sentences:**
-一个男孩
+**Sentences:**  
+一个男孩  
 男孩
 
 ---
 
 ### Word 4: 有 (there is / have)
 
-**Sentences:**
-有一个男孩
+**Sentences:**  
+有一个男孩  
 有男孩
 
 ---
 
 ### Word 5: 叫 (called / named)
 
-**Sentences:**
-男孩叫
-有一个男孩叫
+**Sentences:**  
+男孩叫  
+有一个男孩叫  
 
 ---
 
