@@ -1755,5 +1755,3 @@
 ---
 
 **Total words learned: 200**
-
-Would you like me to continue with Chapter 4?

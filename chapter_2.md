@@ -1036,5 +1036,3 @@
 ---
 
 **Total words learned: 100**
-
-Would you like me to continue with Chapter 3 and more new words?

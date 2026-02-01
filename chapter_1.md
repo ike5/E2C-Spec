@@ -590,5 +590,4 @@ Now you can read the full story using all the words you learned:
 
 ---
 
-Would you like me to create a second story using these same 40 words for practice, or continue with new words and a new
-chapter of Ming's adventures?
+**Total words learned: 40**
