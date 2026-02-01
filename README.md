@@ -1,96 +1,106 @@
-# Curso de Lectura de Chino para Hispanohablantes
+# Chinese Reading Course
 
-## 学中文 - Aprende a Leer Chino
+🌍 **Read this README in:**  
+[English](README.md) | [Español](README.es.md)
 
-Este curso está diseñado para **hablantes de español latinoamericano** que desean aprender a **leer** chino mandarín sin
-necesidad de aprender a hablarlo.
+--- 
+📘 **Course content:**
 
----
-
-## Metodología
-
-El curso utiliza un método de **aprendizaje progresivo por andamiaje (scaffolding)**:
-
-1. **Una palabra a la vez:** Cada palabra nueva se introduce con su traducción al español.
-2. **Oraciones con palabras conocidas:** Todas las oraciones de práctica solo contienen palabras que ya has aprendido.
-3. **Historia continua:** Las palabras se presentan dentro de una historia progresiva sobre un niño llamado Ming (小明).
-4. **Sin pinyin:** Este curso se enfoca exclusivamente en la lectura de caracteres chinos (simplificados), sin
-   romanización.
+- 👉 [English chapters](en/)
+- 👉 [Spanish chapters](es/)
 
 ---
 
-## Contenido del Curso
+## 学中文 – Learn to Read Chinese
 
-| Capítulo | Título                       | Palabras | Enlace                         |
-|----------|------------------------------|----------|--------------------------------|
-| 1        | El Niño y el Gato            | 1-40     | [capitulo_1.md](capítulo_1.md) |
-| 2        | La Aventura de Ming          | 41-100   | [capitulo_2.md](capítulo_2.md) |
-| 3        | Ming Hace una Nueva Amiga    | 101-200  | [capitulo_3.md](capítulo_3.md) |
-| 4        | Un Día con Amigos            | 201-300  | [capitulo_4.md](capítulo_4.md) |
-| 5        | La Aventura del Día Lluvioso | 301-400  | [capitulo_5.md](capítulo_5.md) |
-| 6        | La Sorpresa de Cumpleaños    | 401-500  | [capitulo_6.md](capítulo_6.md) |
+This course is designed for **Spanish speakers** who want to learn how to **read** Mandarin Chinese—without
+needing to learn how to speak it.
 
 ---
 
-## Cómo Usar Este Curso
+## Methodology
 
-### Para Principiantes:
+The course uses a **progressive, scaffolded learning approach**:
 
-1. Comienza con el **Capítulo 1**.
-2. Lee cada palabra nueva y su traducción.
-3. Practica leyendo las oraciones de ejemplo.
-4. Cuando hayas terminado todas las palabras del capítulo, lee la **historia completa**.
-5. Continúa con el siguiente capítulo.
-
-### Consejos de Estudio:
-
-- **Repasa** los capítulos anteriores regularmente.
-- **Lee la historia completa** de cada capítulo varias veces.
+1. **One word at a time:** Each new word is introduced with its English translation.
+2. **Sentences with known words:** All practice sentences contain only words you have already learned.
+3. **Continuous story:** Vocabulary is presented within a progressive story about a boy named Ming (小明).
+4. **No pinyin:** This course focuses exclusively on reading **simplified Chinese characters**, with no romanization.
 
 ---
 
-## Resumen de la Historia
+## Course Content
 
-La historia sigue a **小明 (Xiǎo Míng)**, un niño de diez años:
-
-- **Capítulo 1:** Ming conoce a un pequeño gato blanco y se hacen amigos.
-- **Capítulo 2:** Ming y el gato pasan un día juntos explorando.
-- **Capítulo 3:** Ming conoce a 小兰 (Xiǎo Lán) en el parque.
-- **Capítulo 4:** Ming conoce a 阿强 (Ā Qiáng) y aprende a jugar fútbol.
-- **Capítulo 5:** Un día lluvioso trae un arcoíris y una hermosa leyenda.
-- **Capítulo 6:** Los amigos y la familia de Ming le dan una fiesta sorpresa de cumpleaños.
-
----
-
-## Características del Curso
-
-✅ **500 palabras** del vocabulario básico (HSK 1-2 aproximadamente)  
-✅ **Caracteres simplificados** (usados en China continental)  
-✅ **Sin pinyin** (enfoque puro en lectura)  
-✅ **Traducciones al español latinoamericano**  
-✅ **Historias completas** al final de cada capítulo  
-✅ **Listas de vocabulario** para referencia rápida
+| Chapter | Title                   | Words   | Link                            |
+|--------:|-------------------------|---------|---------------------------------|
+|       1 | The Boy and the Cat     | 1–40    | [chapter_1.md](en/chapter_1.md) |
+|       2 | Ming’s Adventure        | 41–100  | [chapter_2.md](en/chapter_2.md) |
+|       3 | Ming Makes a New Friend | 101–200 | [chapter_3.md](en/chapter_3.md) |
+|       4 | A Day with Friends      | 201–300 | [chapter_4.md](en/chapter_4.md) |
+|       5 | The Rainy Day Adventure | 301–400 | [chapter_5.md](en/chapter_5.md) |
+|       6 | The Birthday Surprise   | 401–500 | [chapter_6.md](en/chapter_6.md) |
 
 ---
 
-## Nota sobre Caracteres
+## How to Use This Course
 
-Este curso usa **caracteres chinos simplificados** (简体字), que son los utilizados en:
+### For Beginners
 
-- China continental
-- Singapur
-- Malasia
+1. Start with **Chapter 1**.
+2. Read each new word and its translation.
+3. Practice reading the example sentences.
+4. Once you finish all the words in the chapter, read the **complete story**.
+5. Continue with the next chapter.
 
-Si deseas aprender caracteres tradicionales (usados en Taiwán, Hong Kong y Macao), este curso puede servir como base,
-pero necesitarás recursos adicionales.
+### Study Tips
+
+- **Review** previous chapters regularly.
+- **Read the full story** of each chapter several times.
 
 ---
 
-## ¡Comienza Ahora!
+## Story Summary
 
-[➡️ Ir al Capítulo 1](capítulo_1.md)
+The story follows **小明 (Xiǎo Míng)**, a ten-year-old boy:
+
+- **Chapter 1:** Ming meets a small white cat and they become friends.
+- **Chapter 2:** Ming and the cat spend a day exploring together.
+- **Chapter 3:** Ming meets 小兰 (Xiǎo Lán) in the park.
+- **Chapter 4:** Ming meets 阿强 (Ā Qiáng) and learns to play soccer.
+- **Chapter 5:** A rainy day brings a rainbow and a beautiful legend.
+- **Chapter 6:** Ming’s friends and family throw him a surprise birthday party.
+
+---
+
+## Course Features
+
+✅ **500 core vocabulary words** (approximately HSK 1–2)  
+✅ **Simplified Chinese characters**  
+✅ **No pinyin** (reading-only focus)  
+✅ **Clear English translations**  
+✅ **Complete stories** per chapter  
+✅ **Vocabulary lists** for quick reference
+
+---
+
+## Note on Characters
+
+This course uses **simplified Chinese characters** (简体字), which are used in:
+
+- Mainland China
+- Singapore
+- Malaysia
+
+If you wish to learn **traditional characters** (used in Taiwan, Hong Kong, and Macau), this course can serve as a solid
+foundation, but you will need additional resources.
+
+---
+
+## Get Started Now
+
+➡️ [Go to Chapter 1](en/chapter_1.md)
 
 ---
 
 *祝你学习愉快！*  
-*(¡Te deseo un aprendizaje agradable!)*
+*(Wishing you an enjoyable learning journey!)*
