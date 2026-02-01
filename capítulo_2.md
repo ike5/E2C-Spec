@@ -1,6 +1,6 @@
 # Capítulo 2: La Aventura de Ming
 
-[← Capítulo 1](capitulo_1.md) | [Capítulo 3 →](capitulo_3.md)
+[← Capítulo 1](capítulo_1.md) | [Capítulo 3 →](capítulo_3.md)
 
 ---
 

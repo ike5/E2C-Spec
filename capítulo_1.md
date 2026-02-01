@@ -629,4 +629,4 @@ Ahora puedes leer la historia completa usando todas las palabras que aprendiste:
 
 **Palabras aprendidas: 40**
 
-[Continúa en Capítulo 2 →](capitulo_2.md)
+[Continúa en Capítulo 2 →](capítulo_2.md)
