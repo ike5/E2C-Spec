@@ -1,0 +1,624 @@
+{
+  "words": [
+    {
+      "chinese": "吧",
+      "en": "suggestion particle"
+    },
+    {
+      "chinese": "白",
+      "en": "white"
+    },
+    {
+      "chinese": "百",
+      "en": "hundred"
+    },
+    {
+      "chinese": "帮助",
+      "en": "help"
+    },
+    {
+      "chinese": "报纸",
+      "en": "newspaper"
+    },
+    {
+      "chinese": "比",
+      "en": "compare / than"
+    },
+    {
+      "chinese": "别",
+      "en": "don't"
+    },
+    {
+      "chinese": "宾馆",
+      "en": "hotel"
+    },
+    {
+      "chinese": "长",
+      "en": "long"
+    },
+    {
+      "chinese": "唱歌",
+      "en": "sing"
+    },
+    {
+      "chinese": "出",
+      "en": "go out / exit"
+    },
+    {
+      "chinese": "穿",
+      "en": "wear"
+    },
+    {
+      "chinese": "次",
+      "en": "time / occurrence"
+    },
+    {
+      "chinese": "从",
+      "en": "from"
+    },
+    {
+      "chinese": "错",
+      "en": "wrong / mistake"
+    },
+    {
+      "chinese": "打篮球",
+      "en": "play basketball"
+    },
+    {
+      "chinese": "大家",
+      "en": "everyone"
+    },
+    {
+      "chinese": "到",
+      "en": "arrive / to"
+    },
+    {
+      "chinese": "得",
+      "en": "particle indicating result"
+    },
+    {
+      "chinese": "等",
+      "en": "wait"
+    },
+    {
+      "chinese": "弟弟",
+      "en": "younger brother"
+    },
+    {
+      "chinese": "第一",
+      "en": "first"
+    },
+    {
+      "chinese": "懂",
+      "en": "understand"
+    },
+    {
+      "chinese": "对",
+      "en": "correct / right"
+    },
+    {
+      "chinese": "房间",
+      "en": "room"
+    },
+    {
+      "chinese": "非常",
+      "en": "very / extremely"
+    },
+    {
+      "chinese": "服务员",
+      "en": "waiter / attendant"
+    },
+    {
+      "chinese": "高",
+      "en": "tall / high"
+    },
+    {
+      "chinese": "告诉",
+      "en": "tell"
+    },
+    {
+      "chinese": "哥哥",
+      "en": "older brother"
+    },
+    {
+      "chinese": "给",
+      "en": "give / to"
+    },
+    {
+      "chinese": "公共汽车",
+      "en": "bus"
+    },
+    {
+      "chinese": "公司",
+      "en": "company"
+    },
+    {
+      "chinese": "贵",
+      "en": "expensive"
+    },
+    {
+      "chinese": "过",
+      "en": "pass / experience"
+    },
+    {
+      "chinese": "还",
+      "en": "still / yet"
+    },
+    {
+      "chinese": "孩子",
+      "en": "child"
+    },
+    {
+      "chinese": "好吃",
+      "en": "delicious"
+    },
+    {
+      "chinese": "黑",
+      "en": "black"
+    },
+    {
+      "chinese": "红",
+      "en": "red"
+    },
+    {
+      "chinese": "欢迎",
+      "en": "welcome"
+    },
+    {
+      "chinese": "还是",
+      "en": "or"
+    },
+    {
+      "chinese": "回答",
+      "en": "answer"
+    },
+    {
+      "chinese": "会",
+      "en": "can / will"
+    },
+    {
+      "chinese": "机场",
+      "en": "airport"
+    },
+    {
+      "chinese": "鸡蛋",
+      "en": "egg"
+    },
+    {
+      "chinese": "件",
+      "en": "measure word for clothes"
+    },
+    {
+      "chinese": "教室",
+      "en": "classroom"
+    },
+    {
+      "chinese": "姐姐",
+      "en": "older sister"
+    },
+    {
+      "chinese": "介绍",
+      "en": "introduce"
+    },
+    {
+      "chinese": "进",
+      "en": "enter"
+    },
+    {
+      "chinese": "近",
+      "en": "near / close"
+    },
+    {
+      "chinese": "就",
+      "en": "then / just"
+    },
+    {
+      "chinese": "觉得",
+      "en": "feel / think"
+    },
+    {
+      "chinese": "咖啡",
+      "en": "coffee"
+    },
+    {
+      "chinese": "开始",
+      "en": "start / begin"
+    },
+    {
+      "chinese": "考试",
+      "en": "exam / test"
+    },
+    {
+      "chinese": "可能",
+      "en": "maybe / possible"
+    },
+    {
+      "chinese": "可以",
+      "en": "can / may"
+    },
+    {
+      "chinese": "课",
+      "en": "class / lesson"
+    },
+    {
+      "chinese": "快",
+      "en": "fast / quick"
+    },
+    {
+      "chinese": "快乐",
+      "en": "happy / joyful"
+    },
+    {
+      "chinese": "累",
+      "en": "tired"
+    },
+    {
+      "chinese": "离",
+      "en": "away from / from"
+    },
+    {
+      "chinese": "两",
+      "en": "two"
+    },
+    {
+      "chinese": "路",
+      "en": "road"
+    },
+    {
+      "chinese": "旅游",
+      "en": "travel / tour"
+    },
+    {
+      "chinese": "卖",
+      "en": "sell"
+    },
+    {
+      "chinese": "慢",
+      "en": "slow"
+    },
+    {
+      "chinese": "忙",
+      "en": "busy"
+    },
+    {
+      "chinese": "每",
+      "en": "each / every"
+    },
+    {
+      "chinese": "妹妹",
+      "en": "younger sister"
+    },
+    {
+      "chinese": "门",
+      "en": "door / gate"
+    },
+    {
+      "chinese": "面条",
+      "en": "noodles"
+    },
+    {
+      "chinese": "名字",
+      "en": "name"
+    },
+    {
+      "chinese": "拿",
+      "en": "take / hold"
+    },
+    {
+      "chinese": "奶奶",
+      "en": "grandmother (paternal)"
+    },
+    {
+      "chinese": "男",
+      "en": "male"
+    },
+    {
+      "chinese": "您",
+      "en": "you (polite)"
+    },
+    {
+      "chinese": "牛奶",
+      "en": "milk"
+    },
+    {
+      "chinese": "女",
+      "en": "female"
+    },
+    {
+      "chinese": "旁边",
+      "en": "beside / next to"
+    },
+    {
+      "chinese": "跑步",
+      "en": "run / jog"
+    },
+    {
+      "chinese": "便宜",
+      "en": "cheap / inexpensive"
+    },
+    {
+      "chinese": "票",
+      "en": "ticket"
+    },
+    {
+      "chinese": "妻子",
+      "en": "wife"
+    },
+    {
+      "chinese": "起床",
+      "en": "get up"
+    },
+    {
+      "chinese": "千",
+      "en": "thousand"
+    },
+    {
+      "chinese": "铅笔",
+      "en": "pencil"
+    },
+    {
+      "chinese": "晴",
+      "en": "sunny / clear"
+    },
+    {
+      "chinese": "去年",
+      "en": "last year"
+    },
+    {
+      "chinese": "让",
+      "en": "let / allow"
+    },
+    {
+      "chinese": "日",
+      "en": "day / sun"
+    },
+    {
+      "chinese": "上班",
+      "en": "go to work"
+    },
+    {
+      "chinese": "身体",
+      "en": "body / health"
+    },
+    {
+      "chinese": "生病",
+      "en": "get sick"
+    },
+    {
+      "chinese": "生日",
+      "en": "birthday"
+    },
+    {
+      "chinese": "时候",
+      "en": "time / moment"
+    },
+    {
+      "chinese": "事情",
+      "en": "matter / thing"
+    },
+    {
+      "chinese": "手表",
+      "en": "watch / wristwatch"
+    },
+    {
+      "chinese": "手机",
+      "en": "cell phone"
+    },
+    {
+      "chinese": "说话",
+      "en": "speak / talk"
+    },
+    {
+      "chinese": "水果",
+      "en": "fruit"
+    },
+    {
+      "chinese": "睡觉",
+      "en": "sleep"
+    },
+    {
+      "chinese": "所以",
+      "en": "so / therefore"
+    },
+    {
+      "chinese": "它",
+      "en": "it"
+    },
+    {
+      "chinese": "踢足球",
+      "en": "play soccer"
+    },
+    {
+      "chinese": "题",
+      "en": "question / problem"
+    },
+    {
+      "chinese": "跳舞",
+      "en": "dance"
+    },
+    {
+      "chinese": "外",
+      "en": "outside"
+    },
+    {
+      "chinese": "完",
+      "en": "finish / complete"
+    },
+    {
+      "chinese": "玩",
+      "en": "play"
+    },
+    {
+      "chinese": "晚上",
+      "en": "evening / night"
+    },
+    {
+      "chinese": "往",
+      "en": "towards"
+    },
+    {
+      "chinese": "为什么",
+      "en": "why"
+    },
+    {
+      "chinese": "问",
+      "en": "ask"
+    },
+    {
+      "chinese": "问题",
+      "en": "question / problem"
+    },
+    {
+      "chinese": "希望",
+      "en": "hope / wish"
+    },
+    {
+      "chinese": "洗",
+      "en": "wash"
+    },
+    {
+      "chinese": "小时",
+      "en": "hour"
+    },
+    {
+      "chinese": "笑",
+      "en": "laugh / smile"
+    },
+    {
+      "chinese": "新",
+      "en": "new"
+    },
+    {
+      "chinese": "姓",
+      "en": "surname / family name"
+    },
+    {
+      "chinese": "休息",
+      "en": "rest"
+    },
+    {
+      "chinese": "雪",
+      "en": "snow"
+    },
+    {
+      "chinese": "颜色",
+      "en": "color"
+    },
+    {
+      "chinese": "眼睛",
+      "en": "eye"
+    },
+    {
+      "chinese": "羊肉",
+      "en": "mutton / lamb"
+    },
+    {
+      "chinese": "药",
+      "en": "medicine"
+    },
+    {
+      "chinese": "要",
+      "en": "want / need"
+    },
+    {
+      "chinese": "也",
+      "en": "also / too"
+    },
+    {
+      "chinese": "一起",
+      "en": "together"
+    },
+    {
+      "chinese": "已经",
+      "en": "already"
+    },
+    {
+      "chinese": "意思",
+      "en": "meaning"
+    },
+    {
+      "chinese": "因为",
+      "en": "because"
+    },
+    {
+      "chinese": "阴",
+      "en": "cloudy / overcast"
+    },
+    {
+      "chinese": "游泳",
+      "en": "swim"
+    },
+    {
+      "chinese": "右边",
+      "en": "right side"
+    },
+    {
+      "chinese": "鱼",
+      "en": "fish"
+    },
+    {
+      "chinese": "远",
+      "en": "far"
+    },
+    {
+      "chinese": "运动",
+      "en": "exercise / sports"
+    },
+    {
+      "chinese": "再",
+      "en": "again"
+    },
+    {
+      "chinese": "早上",
+      "en": "morning"
+    },
+    {
+      "chinese": "丈夫",
+      "en": "husband"
+    },
+    {
+      "chinese": "找",
+      "en": "look for / find"
+    },
+    {
+      "chinese": "着",
+      "en": "progressive aspect particle"
+    },
+    {
+      "chinese": "真",
+      "en": "really / truly"
+    },
+    {
+      "chinese": "正在",
+      "en": "in the process of"
+    },
+    {
+      "chinese": "知道",
+      "en": "know"
+    },
+    {
+      "chinese": "准备",
+      "en": "prepare"
+    },
+    {
+      "chinese": "自行车",
+      "en": "bicycle"
+    },
+    {
+      "chinese": "走",
+      "en": "walk / go"
+    },
+    {
+      "chinese": "最",
+      "en": "most"
+    },
+    {
+      "chinese": "左边",
+      "en": "left side"
+    },
+    {
+      "chinese": "做",
+      "en": "do / make"
+    }
+  ]
+}

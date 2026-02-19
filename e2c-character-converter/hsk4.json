@@ -1,0 +1,5064 @@
+{
+  "words": [
+    {
+      "chinese": "爱",
+      "en": "love"
+    },
+    {
+      "chinese": "爱好",
+      "en": "hobby"
+    },
+    {
+      "chinese": "安静",
+      "en": "quiet"
+    },
+    {
+      "chinese": "安排",
+      "en": "arrange"
+    },
+    {
+      "chinese": "按时",
+      "en": "on time"
+    },
+    {
+      "chinese": "按照",
+      "en": "according to"
+    },
+    {
+      "chinese": "把",
+      "en": "measure word / disposal marker"
+    },
+    {
+      "chinese": "百分之",
+      "en": "percent"
+    },
+    {
+      "chinese": "班",
+      "en": "class / shift"
+    },
+    {
+      "chinese": "办法",
+      "en": "method / way"
+    },
+    {
+      "chinese": "办公室",
+      "en": "office"
+    },
+    {
+      "chinese": "半",
+      "en": "half"
+    },
+    {
+      "chinese": "帮忙",
+      "en": "help"
+    },
+    {
+      "chinese": "包",
+      "en": "bag / package"
+    },
+    {
+      "chinese": "包括",
+      "en": "include"
+    },
+    {
+      "chinese": "饱",
+      "en": "full (stomach)"
+    },
+    {
+      "chinese": "保护",
+      "en": "protect"
+    },
+    {
+      "chinese": "保证",
+      "en": "guarantee"
+    },
+    {
+      "chinese": "报名",
+      "en": "sign up / register"
+    },
+    {
+      "chinese": "报纸",
+      "en": "newspaper"
+    },
+    {
+      "chinese": "抱",
+      "en": "hug / hold"
+    },
+    {
+      "chinese": "抱歉",
+      "en": "sorry"
+    },
+    {
+      "chinese": "倍",
+      "en": "times (multiplication)"
+    },
+    {
+      "chinese": "本来",
+      "en": "originally"
+    },
+    {
+      "chinese": "笨",
+      "en": "stupid"
+    },
+    {
+      "chinese": "比",
+      "en": "compare / than"
+    },
+    {
+      "chinese": "比较",
+      "en": "relatively / compare"
+    },
+    {
+      "chinese": "比如",
+      "en": "for example"
+    },
+    {
+      "chinese": "比赛",
+      "en": "competition"
+    },
+    {
+      "chinese": "必须",
+      "en": "must"
+    },
+    {
+      "chinese": "毕业",
+      "en": "graduate"
+    },
+    {
+      "chinese": "遍",
+      "en": "time (occurrence)"
+    },
+    {
+      "chinese": "标准",
+      "en": "standard"
+    },
+    {
+      "chinese": "表达",
+      "en": "express"
+    },
+    {
+      "chinese": "表格",
+      "en": "form / table"
+    },
+    {
+      "chinese": "表示",
+      "en": "indicate / express"
+    },
+    {
+      "chinese": "表演",
+      "en": "perform"
+    },
+    {
+      "chinese": "表扬",
+      "en": "praise"
+    },
+    {
+      "chinese": "博士",
+      "en": "doctor (PhD)"
+    },
+    {
+      "chinese": "不必",
+      "en": "need not"
+    },
+    {
+      "chinese": "不过",
+      "en": "but / however"
+    },
+    {
+      "chinese": "不仅",
+      "en": "not only"
+    },
+    {
+      "chinese": "不客气",
+      "en": "you're welcome"
+    },
+    {
+      "chinese": "不要紧",
+      "en": "it doesn't matter"
+    },
+    {
+      "chinese": "部分",
+      "en": "part / section"
+    },
+    {
+      "chinese": "材料",
+      "en": "material"
+    },
+    {
+      "chinese": "猜",
+      "en": "guess"
+    },
+    {
+      "chinese": "参观",
+      "en": "visit"
+    },
+    {
+      "chinese": "参加",
+      "en": "participate"
+    },
+    {
+      "chinese": "参考",
+      "en": "reference / consult"
+    },
+    {
+      "chinese": "餐厅",
+      "en": "restaurant"
+    },
+    {
+      "chinese": "厕所",
+      "en": "toilet"
+    },
+    {
+      "chinese": "曾经",
+      "en": "once / ever"
+    },
+    {
+      "chinese": "差",
+      "en": "differ / lack"
+    },
+    {
+      "chinese": "差不多",
+      "en": "almost / similar"
+    },
+    {
+      "chinese": "长",
+      "en": "long"
+    },
+    {
+      "chinese": "长城",
+      "en": "Great Wall"
+    },
+    {
+      "chinese": "长江",
+      "en": "Yangtze River"
+    },
+    {
+      "chinese": "尝",
+      "en": "taste / try"
+    },
+    {
+      "chinese": "场",
+      "en": "measure word for events"
+    },
+    {
+      "chinese": "常常",
+      "en": "often"
+    },
+    {
+      "chinese": "超过",
+      "en": "exceed"
+    },
+    {
+      "chinese": "吵",
+      "en": "noisy / quarrel"
+    },
+    {
+      "chinese": "成功",
+      "en": "succeed"
+    },
+    {
+      "chinese": "成绩",
+      "en": "grade / achievement"
+    },
+    {
+      "chinese": "成为",
+      "en": "become"
+    },
+    {
+      "chinese": "诚实",
+      "en": "honest"
+    },
+    {
+      "chinese": "乘",
+      "en": "multiply / take (transport)"
+    },
+    {
+      "chinese": "乘坐",
+      "en": "take (transport)"
+    },
+    {
+      "chinese": "吃惊",
+      "en": "surprised"
+    },
+    {
+      "chinese": "重新",
+      "en": "again / anew"
+    },
+    {
+      "chinese": "抽烟",
+      "en": "smoke"
+    },
+    {
+      "chinese": "出",
+      "en": "exit / out"
+    },
+    {
+      "chinese": "出发",
+      "en": "set off / depart"
+    },
+    {
+      "chinese": "出生",
+      "en": "be born"
+    },
+    {
+      "chinese": "出现",
+      "en": "appear"
+    },
+    {
+      "chinese": "厨房",
+      "en": "kitchen"
+    },
+    {
+      "chinese": "传真",
+      "en": "fax"
+    },
+    {
+      "chinese": "窗户",
+      "en": "window"
+    },
+    {
+      "chinese": "词语",
+      "en": "word / term"
+    },
+    {
+      "chinese": "此外",
+      "en": "besides / moreover"
+    },
+    {
+      "chinese": "次",
+      "en": "time (occurrence)"
+    },
+    {
+      "chinese": "从而",
+      "en": "thus / thereby"
+    },
+    {
+      "chinese": "从来",
+      "en": "always / never"
+    },
+    {
+      "chinese": "粗心",
+      "en": "careless"
+    },
+    {
+      "chinese": "存",
+      "en": "save / deposit"
+    },
+    {
+      "chinese": "错",
+      "en": "wrong / mistake"
+    },
+    {
+      "chinese": "错误",
+      "en": "error / mistake"
+    },
+    {
+      "chinese": "答案",
+      "en": "answer"
+    },
+    {
+      "chinese": "打扮",
+      "en": "dress up"
+    },
+    {
+      "chinese": "打扰",
+      "en": "disturb"
+    },
+    {
+      "chinese": "打听",
+      "en": "inquire / ask about"
+    },
+    {
+      "chinese": "打印",
+      "en": "print"
+    },
+    {
+      "chinese": "打折",
+      "en": "discount"
+    },
+    {
+      "chinese": "打招呼",
+      "en": "greet"
+    },
+    {
+      "chinese": "打针",
+      "en": "get an injection"
+    },
+    {
+      "chinese": "大概",
+      "en": "probably / roughly"
+    },
+    {
+      "chinese": "大使馆",
+      "en": "embassy"
+    },
+    {
+      "chinese": "大约",
+      "en": "approximately"
+    },
+    {
+      "chinese": "大夫",
+      "en": "doctor"
+    },
+    {
+      "chinese": "戴",
+      "en": "wear (accessories)"
+    },
+    {
+      "chinese": "代表",
+      "en": "represent / representative"
+    },
+    {
+      "chinese": "待",
+      "en": "stay / treat"
+    },
+    {
+      "chinese": "当",
+      "en": "serve as / when"
+    },
+    {
+      "chinese": "当地",
+      "en": "local"
+    },
+    {
+      "chinese": "当然",
+      "en": "of course"
+    },
+    {
+      "chinese": "当时",
+      "en": "at that time"
+    },
+    {
+      "chinese": "挡",
+      "en": "block / keep off"
+    },
+    {
+      "chinese": "刀",
+      "en": "knife"
+    },
+    {
+      "chinese": "导游",
+      "en": "tour guide"
+    },
+    {
+      "chinese": "倒",
+      "en": "pour / fall"
+    },
+    {
+      "chinese": "倒霉",
+      "en": "unlucky"
+    },
+    {
+      "chinese": "到处",
+      "en": "everywhere"
+    },
+    {
+      "chinese": "到底",
+      "en": "after all / finally"
+    },
+    {
+      "chinese": "道歉",
+      "en": "apologize"
+    },
+    {
+      "chinese": "得意",
+      "en": "proud / pleased with oneself"
+    },
+    {
+      "chinese": "登机牌",
+      "en": "boarding pass"
+    },
+    {
+      "chinese": "等",
+      "en": "wait / etc."
+    },
+    {
+      "chinese": "等待",
+      "en": "wait"
+    },
+    {
+      "chinese": "低",
+      "en": "low"
+    },
+    {
+      "chinese": "底",
+      "en": "bottom"
+    },
+    {
+      "chinese": "地",
+      "en": "adverbial particle"
+    },
+    {
+      "chinese": "地点",
+      "en": "location"
+    },
+    {
+      "chinese": "地球",
+      "en": "Earth"
+    },
+    {
+      "chinese": "地址",
+      "en": "address"
+    },
+    {
+      "chinese": "调查",
+      "en": "investigate / survey"
+    },
+    {
+      "chinese": "掉",
+      "en": "fall / drop"
+    },
+    {
+      "chinese": "丢",
+      "en": "lose"
+    },
+    {
+      "chinese": "动作",
+      "en": "movement / action"
+    },
+    {
+      "chinese": "堵车",
+      "en": "traffic jam"
+    },
+    {
+      "chinese": "肚子",
+      "en": "belly / stomach"
+    },
+    {
+      "chinese": "短",
+      "en": "short"
+    },
+    {
+      "chinese": "短信",
+      "en": "text message"
+    },
+    {
+      "chinese": "段",
+      "en": "section / paragraph"
+    },
+    {
+      "chinese": "锻炼",
+      "en": "exercise"
+    },
+    {
+      "chinese": "堆",
+      "en": "pile / heap"
+    },
+    {
+      "chinese": "对",
+      "en": "correct / toward"
+    },
+    {
+      "chinese": "对话",
+      "en": "dialogue"
+    },
+    {
+      "chinese": "对面",
+      "en": "opposite"
+    },
+    {
+      "chinese": "对于",
+      "en": "regarding / for"
+    },
+    {
+      "chinese": "顿",
+      "en": "measure word for meals"
+    },
+    {
+      "chinese": "多亏",
+      "en": "thanks to"
+    },
+    {
+      "chinese": "多么",
+      "en": "how / what"
+    },
+    {
+      "chinese": "多余",
+      "en": "surplus / unnecessary"
+    },
+    {
+      "chinese": "儿童",
+      "en": "children"
+    },
+    {
+      "chinese": "而",
+      "en": "and / but"
+    },
+    {
+      "chinese": "而且",
+      "en": "moreover"
+    },
+    {
+      "chinese": "耳环",
+      "en": "earring"
+    },
+    {
+      "chinese": "发",
+      "en": "send / emit"
+    },
+    {
+      "chinese": "发展",
+      "en": "develop"
+    },
+    {
+      "chinese": "发生",
+      "en": "happen / occur"
+    },
+    {
+      "chinese": "发挥",
+      "en": "bring into play"
+    },
+    {
+      "chinese": "发明",
+      "en": "invent"
+    },
+    {
+      "chinese": "发现",
+      "en": "discover"
+    },
+    {
+      "chinese": "发烧",
+      "en": "have a fever"
+    },
+    {
+      "chinese": "罚款",
+      "en": "fine / penalty"
+    },
+    {
+      "chinese": "法律",
+      "en": "law"
+    },
+    {
+      "chinese": "翻译",
+      "en": "translate"
+    },
+    {
+      "chinese": "烦恼",
+      "en": "worry / vexed"
+    },
+    {
+      "chinese": "反对",
+      "en": "oppose"
+    },
+    {
+      "chinese": "反而",
+      "en": "on the contrary"
+    },
+    {
+      "chinese": "反应",
+      "en": "react / response"
+    },
+    {
+      "chinese": "反映",
+      "en": "reflect"
+    },
+    {
+      "chinese": "范围",
+      "en": "scope / range"
+    },
+    {
+      "chinese": "方",
+      "en": "square / side"
+    },
+    {
+      "chinese": "方案",
+      "en": "plan / scheme"
+    },
+    {
+      "chinese": "方便",
+      "en": "convenient"
+    },
+    {
+      "chinese": "方法",
+      "en": "method"
+    },
+    {
+      "chinese": "方面",
+      "en": "aspect / side"
+    },
+    {
+      "chinese": "方式",
+      "en": "way / manner"
+    },
+    {
+      "chinese": "方向",
+      "en": "direction"
+    },
+    {
+      "chinese": "房东",
+      "en": "landlord"
+    },
+    {
+      "chinese": "仿佛",
+      "en": "as if / seem"
+    },
+    {
+      "chinese": "非",
+      "en": "not / non-"
+    },
+    {
+      "chinese": "非常",
+      "en": "very / extremely"
+    },
+    {
+      "chinese": "肥皂",
+      "en": "soap"
+    },
+    {
+      "chinese": "废话",
+      "en": "nonsense"
+    },
+    {
+      "chinese": "分",
+      "en": "divide / minute"
+    },
+    {
+      "chinese": "分别",
+      "en": "separately / part"
+    },
+    {
+      "chinese": "分之",
+      "en": "fraction marker"
+    },
+    {
+      "chinese": "分析",
+      "en": "analyze"
+    },
+    {
+      "chinese": "份",
+      "en": "portion / measure word"
+    },
+    {
+      "chinese": "丰富",
+      "en": "rich / abundant"
+    },
+    {
+      "chinese": "风景",
+      "en": "scenery"
+    },
+    {
+      "chinese": "否则",
+      "en": "otherwise"
+    },
+    {
+      "chinese": "符合",
+      "en": "accord with"
+    },
+    {
+      "chinese": "服务员",
+      "en": "waiter / attendant"
+    },
+    {
+      "chinese": "幅",
+      "en": "measure word for paintings"
+    },
+    {
+      "chinese": "付款",
+      "en": "pay"
+    },
+    {
+      "chinese": "负责",
+      "en": "be responsible for"
+    },
+    {
+      "chinese": "复印",
+      "en": "photocopy"
+    },
+    {
+      "chinese": "复杂",
+      "en": "complex"
+    },
+    {
+      "chinese": "富",
+      "en": "rich"
+    },
+    {
+      "chinese": "改",
+      "en": "change / alter"
+    },
+    {
+      "chinese": "改变",
+      "en": "change"
+    },
+    {
+      "chinese": "改革",
+      "en": "reform"
+    },
+    {
+      "chinese": "概念",
+      "en": "concept"
+    },
+    {
+      "chinese": "干杯",
+      "en": "cheers / toast"
+    },
+    {
+      "chinese": "干脆",
+      "en": "straightforward / simply"
+    },
+    {
+      "chinese": "赶",
+      "en": "rush / catch up"
+    },
+    {
+      "chinese": "赶紧",
+      "en": "hurry up"
+    },
+    {
+      "chinese": "敢",
+      "en": "dare"
+    },
+    {
+      "chinese": "感动",
+      "en": "move / touch emotionally"
+    },
+    {
+      "chinese": "感觉",
+      "en": "feel / sense"
+    },
+    {
+      "chinese": "感情",
+      "en": "emotion / feeling"
+    },
+    {
+      "chinese": "感受",
+      "en": "experience / feeling"
+    },
+    {
+      "chinese": "感谢",
+      "en": "thank"
+    },
+    {
+      "chinese": "感兴趣",
+      "en": "be interested"
+    },
+    {
+      "chinese": "干",
+      "en": "do / dry"
+    },
+    {
+      "chinese": "干燥",
+      "en": "dry / arid"
+    },
+    {
+      "chinese": "刚",
+      "en": "just / just now"
+    },
+    {
+      "chinese": "刚才",
+      "en": "just now"
+    },
+    {
+      "chinese": "高级",
+      "en": "high-level / advanced"
+    },
+    {
+      "chinese": "高速公路",
+      "en": "highway / expressway"
+    },
+    {
+      "chinese": "搞",
+      "en": "do / make"
+    },
+    {
+      "chinese": "告诉",
+      "en": "tell"
+    },
+    {
+      "chinese": "胳膊",
+      "en": "arm"
+    },
+    {
+      "chinese": "各",
+      "en": "each / every"
+    },
+    {
+      "chinese": "各自",
+      "en": "each / respective"
+    },
+    {
+      "chinese": "根",
+      "en": "root / measure word"
+    },
+    {
+      "chinese": "根本",
+      "en": "fundamental / at all"
+    },
+    {
+      "chinese": "根据",
+      "en": "according to / basis"
+    },
+    {
+      "chinese": "更",
+      "en": "more / even more"
+    },
+    {
+      "chinese": "更加",
+      "en": "even more"
+    },
+    {
+      "chinese": "工资",
+      "en": "salary / wages"
+    },
+    {
+      "chinese": "公布",
+      "en": "announce / publish"
+    },
+    {
+      "chinese": "公开",
+      "en": "public / open"
+    },
+    {
+      "chinese": "公平",
+      "en": "fair / just"
+    },
+    {
+      "chinese": "公元",
+      "en": "AD / CE"
+    },
+    {
+      "chinese": "公主",
+      "en": "princess"
+    },
+    {
+      "chinese": "功夫",
+      "en": "kung fu / skill / time"
+    },
+    {
+      "chinese": "共同",
+      "en": "common / together"
+    },
+    {
+      "chinese": "贡献",
+      "en": "contribute / contribution"
+    },
+    {
+      "chinese": "沟通",
+      "en": "communicate"
+    },
+    {
+      "chinese": "构成",
+      "en": "constitute / compose"
+    },
+    {
+      "chinese": "姑娘",
+      "en": "girl / young lady"
+    },
+    {
+      "chinese": "鼓励",
+      "en": "encourage"
+    },
+    {
+      "chinese": "鼓掌",
+      "en": "applaud"
+    },
+    {
+      "chinese": "固定",
+      "en": "fixed"
+    },
+    {
+      "chinese": "故意",
+      "en": "intentionally"
+    },
+    {
+      "chinese": "顾客",
+      "en": "customer"
+    },
+    {
+      "chinese": "挂",
+      "en": "hang"
+    },
+    {
+      "chinese": "关",
+      "en": "close / turn off"
+    },
+    {
+      "chinese": "关键",
+      "en": "key / crucial"
+    },
+    {
+      "chinese": "观点",
+      "en": "viewpoint"
+    },
+    {
+      "chinese": "观察",
+      "en": "observe"
+    },
+    {
+      "chinese": "观众",
+      "en": "audience"
+    },
+    {
+      "chinese": "管理",
+      "en": "manage"
+    },
+    {
+      "chinese": "冠军",
+      "en": "champion"
+    },
+    {
+      "chinese": "光",
+      "en": "light / only"
+    },
+    {
+      "chinese": "广播",
+      "en": "broadcast"
+    },
+    {
+      "chinese": "广告",
+      "en": "advertisement"
+    },
+    {
+      "chinese": "逛",
+      "en": "stroll / go shopping"
+    },
+    {
+      "chinese": "规定",
+      "en": "rule / regulation"
+    },
+    {
+      "chinese": "规律",
+      "en": "law / regular pattern"
+    },
+    {
+      "chinese": "规则",
+      "en": "rule"
+    },
+    {
+      "chinese": "国籍",
+      "en": "nationality"
+    },
+    {
+      "chinese": "国际",
+      "en": "international"
+    },
+    {
+      "chinese": "果然",
+      "en": "as expected"
+    },
+    {
+      "chinese": "果实",
+      "en": "fruit / gains"
+    },
+    {
+      "chinese": "过",
+      "en": "pass / cross"
+    },
+    {
+      "chinese": "过程",
+      "en": "process / course"
+    },
+    {
+      "chinese": "过分",
+      "en": "excessive"
+    },
+    {
+      "chinese": "过敏",
+      "en": "allergic"
+    },
+    {
+      "chinese": "害羞",
+      "en": "shy"
+    },
+    {
+      "chinese": "寒假",
+      "en": "winter vacation"
+    },
+    {
+      "chinese": "喊",
+      "en": "shout"
+    },
+    {
+      "chinese": "好处",
+      "en": "benefit / advantage"
+    },
+    {
+      "chinese": "好像",
+      "en": "seem / like"
+    },
+    {
+      "chinese": "好奇",
+      "en": "curious"
+    },
+    {
+      "chinese": "号码",
+      "en": "number"
+    },
+    {
+      "chinese": "合格",
+      "en": "qualified"
+    },
+    {
+      "chinese": "合适",
+      "en": "suitable"
+    },
+    {
+      "chinese": "合作",
+      "en": "cooperate"
+    },
+    {
+      "chinese": "何必",
+      "en": "why / there is no need"
+    },
+    {
+      "chinese": "何况",
+      "en": "let alone"
+    },
+    {
+      "chinese": "厚",
+      "en": "thick"
+    },
+    {
+      "chinese": "后果",
+      "en": "consequence"
+    },
+    {
+      "chinese": "后悔",
+      "en": "regret"
+    },
+    {
+      "chinese": "忽然",
+      "en": "suddenly"
+    },
+    {
+      "chinese": "忽视",
+      "en": "ignore / neglect"
+    },
+    {
+      "chinese": "呼吸",
+      "en": "breathe"
+    },
+    {
+      "chinese": "胡说",
+      "en": "nonsense"
+    },
+    {
+      "chinese": "糊涂",
+      "en": "confused / muddled"
+    },
+    {
+      "chinese": "互相",
+      "en": "mutually / each other"
+    },
+    {
+      "chinese": "怀疑",
+      "en": "doubt / suspect"
+    },
+    {
+      "chinese": "回忆",
+      "en": "recall / reminisce"
+    },
+    {
+      "chinese": "汇率",
+      "en": "exchange rate"
+    },
+    {
+      "chinese": "活动",
+      "en": "activity"
+    },
+    {
+      "chinese": "活泼",
+      "en": "lively"
+    },
+    {
+      "chinese": "火",
+      "en": "fire"
+    },
+    {
+      "chinese": "获得",
+      "en": "obtain / gain"
+    },
+    {
+      "chinese": "积极",
+      "en": "active / positive"
+    },
+    {
+      "chinese": "积累",
+      "en": "accumulate"
+    },
+    {
+      "chinese": "基础",
+      "en": "foundation / basis"
+    },
+    {
+      "chinese": "激动",
+      "en": "excited"
+    },
+    {
+      "chinese": "及时",
+      "en": "timely / in time"
+    },
+    {
+      "chinese": "极",
+      "en": "extremely / pole"
+    },
+    {
+      "chinese": "极其",
+      "en": "extremely"
+    },
+    {
+      "chinese": "集合",
+      "en": "gather / assemble"
+    },
+    {
+      "chinese": "集中",
+      "en": "concentrate"
+    },
+    {
+      "chinese": "计划",
+      "en": "plan"
+    },
+    {
+      "chinese": "记得",
+      "en": "remember"
+    },
+    {
+      "chinese": "记录",
+      "en": "record"
+    },
+    {
+      "chinese": "记忆",
+      "en": "memory"
+    },
+    {
+      "chinese": "纪念",
+      "en": "commemorate"
+    },
+    {
+      "chinese": "既然",
+      "en": "since / now that"
+    },
+    {
+      "chinese": "继续",
+      "en": "continue"
+    },
+    {
+      "chinese": "寄",
+      "en": "send / mail"
+    },
+    {
+      "chinese": "加",
+      "en": "add"
+    },
+    {
+      "chinese": "加班",
+      "en": "work overtime"
+    },
+    {
+      "chinese": "加油站",
+      "en": "gas station"
+    },
+    {
+      "chinese": "家具",
+      "en": "furniture"
+    },
+    {
+      "chinese": "假",
+      "en": "fake / vacation"
+    },
+    {
+      "chinese": "假如",
+      "en": "if / suppose"
+    },
+    {
+      "chinese": "价格",
+      "en": "price"
+    },
+    {
+      "chinese": "坚持",
+      "en": "persist / insist"
+    },
+    {
+      "chinese": "艰巨",
+      "en": "arduous / difficult"
+    },
+    {
+      "chinese": "减肥",
+      "en": "lose weight"
+    },
+    {
+      "chinese": "减少",
+      "en": "reduce / decrease"
+    },
+    {
+      "chinese": "建立",
+      "en": "establish"
+    },
+    {
+      "chinese": "建设",
+      "en": "build / construct"
+    },
+    {
+      "chinese": "建议",
+      "en": "suggest / suggestion"
+    },
+    {
+      "chinese": "建筑",
+      "en": "building / architecture"
+    },
+    {
+      "chinese": "将",
+      "en": "will / shall"
+    },
+    {
+      "chinese": "将来",
+      "en": "future"
+    },
+    {
+      "chinese": "讲座",
+      "en": "lecture"
+    },
+    {
+      "chinese": "交",
+      "en": "hand over / make friends"
+    },
+    {
+      "chinese": "交流",
+      "en": "exchange / communicate"
+    },
+    {
+      "chinese": "交通",
+      "en": "traffic / transportation"
+    },
+    {
+      "chinese": "交往",
+      "en": "associate with"
+    },
+    {
+      "chinese": "骄傲",
+      "en": "proud / arrogant"
+    },
+    {
+      "chinese": "郊区",
+      "en": "suburb"
+    },
+    {
+      "chinese": "教材",
+      "en": "teaching material"
+    },
+    {
+      "chinese": "教授",
+      "en": "professor"
+    },
+    {
+      "chinese": "教育",
+      "en": "educate / education"
+    },
+    {
+      "chinese": "接",
+      "en": "receive / pick up"
+    },
+    {
+      "chinese": "接触",
+      "en": "contact / touch"
+    },
+    {
+      "chinese": "接待",
+      "en": "receive (guests)"
+    },
+    {
+      "chinese": "接受",
+      "en": "accept"
+    },
+    {
+      "chinese": "接着",
+      "en": "then / carry on"
+    },
+    {
+      "chinese": "阶段",
+      "en": "stage / phase"
+    },
+    {
+      "chinese": "节",
+      "en": "festival / section / save"
+    },
+    {
+      "chinese": "节目",
+      "en": "program"
+    },
+    {
+      "chinese": "节约",
+      "en": "save / economize"
+    },
+    {
+      "chinese": "结果",
+      "en": "result / outcome"
+    },
+    {
+      "chinese": "结合",
+      "en": "combine"
+    },
+    {
+      "chinese": "结论",
+      "en": "conclusion"
+    },
+    {
+      "chinese": "结束",
+      "en": "end / finish"
+    },
+    {
+      "chinese": "解释",
+      "en": "explain"
+    },
+    {
+      "chinese": "解决",
+      "en": "solve / resolve"
+    },
+    {
+      "chinese": "尽管",
+      "en": "despite / although"
+    },
+    {
+      "chinese": "尽量",
+      "en": "as much as possible"
+    },
+    {
+      "chinese": "紧张",
+      "en": "nervous / tense"
+    },
+    {
+      "chinese": "进行",
+      "en": "carry out / conduct"
+    },
+    {
+      "chinese": "禁止",
+      "en": "prohibit / forbid"
+    },
+    {
+      "chinese": "近代",
+      "en": "modern times"
+    },
+    {
+      "chinese": "经常",
+      "en": "often"
+    },
+    {
+      "chinese": "经典",
+      "en": "classic"
+    },
+    {
+      "chinese": "经过",
+      "en": "pass / go through"
+    },
+    {
+      "chinese": "经济",
+      "en": "economy / economical"
+    },
+    {
+      "chinese": "经历",
+      "en": "experience"
+    },
+    {
+      "chinese": "经验",
+      "en": "experience"
+    },
+    {
+      "chinese": "精彩",
+      "en": "wonderful / brilliant"
+    },
+    {
+      "chinese": "精神",
+      "en": "spirit / mind"
+    },
+    {
+      "chinese": "景色",
+      "en": "scenery"
+    },
+    {
+      "chinese": "警察",
+      "en": "police"
+    },
+    {
+      "chinese": "竞争",
+      "en": "compete / competition"
+    },
+    {
+      "chinese": "竟然",
+      "en": "unexpectedly"
+    },
+    {
+      "chinese": "究竟",
+      "en": "after all / actually"
+    },
+    {
+      "chinese": "举",
+      "en": "lift / raise / hold (event)"
+    },
+    {
+      "chinese": "举办",
+      "en": "hold (event)"
+    },
+    {
+      "chinese": "举行",
+      "en": "hold (event)"
+    },
+    {
+      "chinese": "距离",
+      "en": "distance"
+    },
+    {
+      "chinese": "拒绝",
+      "en": "refuse / reject"
+    },
+    {
+      "chinese": "具备",
+      "en": "possess / have"
+    },
+    {
+      "chinese": "具体",
+      "en": "concrete / specific"
+    },
+    {
+      "chinese": "俱乐部",
+      "en": "club"
+    },
+    {
+      "chinese": "聚会",
+      "en": "party / gathering"
+    },
+    {
+      "chinese": "卷",
+      "en": "roll / volume / test paper"
+    },
+    {
+      "chinese": "决定",
+      "en": "decide / decision"
+    },
+    {
+      "chinese": "决心",
+      "en": "determination"
+    },
+    {
+      "chinese": "绝对",
+      "en": "absolute"
+    },
+    {
+      "chinese": "均匀",
+      "en": "even / well-distributed"
+    },
+    {
+      "chinese": "开玩笑",
+      "en": "joke"
+    },
+    {
+      "chinese": "开幕式",
+      "en": "opening ceremony"
+    },
+    {
+      "chinese": "砍",
+      "en": "chop / cut"
+    },
+    {
+      "chinese": "看法",
+      "en": "view / opinion"
+    },
+    {
+      "chinese": "考虑",
+      "en": "consider"
+    },
+    {
+      "chinese": "烤鸭",
+      "en": "roast duck"
+    },
+    {
+      "chinese": "科学",
+      "en": "science"
+    },
+    {
+      "chinese": "咳嗽",
+      "en": "cough"
+    },
+    {
+      "chinese": "可怜",
+      "en": "pitiful / poor"
+    },
+    {
+      "chinese": "可能",
+      "en": "possible / maybe"
+    },
+    {
+      "chinese": "可惜",
+      "en": "it's a pity"
+    },
+    {
+      "chinese": "刻",
+      "en": "quarter (hour) / carve"
+    },
+    {
+      "chinese": "客厅",
+      "en": "living room"
+    },
+    {
+      "chinese": "肯定",
+      "en": "affirm / certain"
+    },
+    {
+      "chinese": "空",
+      "en": "empty / sky"
+    },
+    {
+      "chinese": "空气",
+      "en": "air"
+    },
+    {
+      "chinese": "恐怕",
+      "en": "I'm afraid / perhaps"
+    },
+    {
+      "chinese": "口",
+      "en": "mouth / measure word"
+    },
+    {
+      "chinese": "哭",
+      "en": "cry"
+    },
+    {
+      "chinese": "苦",
+      "en": "bitter / suffering"
+    },
+    {
+      "chinese": "夸",
+      "en": "praise / exaggerate"
+    },
+    {
+      "chinese": "夸张",
+      "en": "exaggerate"
+    },
+    {
+      "chinese": "快",
+      "en": "fast / soon"
+    },
+    {
+      "chinese": "宽",
+      "en": "wide"
+    },
+    {
+      "chinese": "况且",
+      "en": "besides / moreover"
+    },
+    {
+      "chinese": "困",
+      "en": "sleepy / trapped"
+    },
+    {
+      "chinese": "困难",
+      "en": "difficult / difficulty"
+    },
+    {
+      "chinese": "扩大",
+      "en": "expand"
+    },
+    {
+      "chinese": "辣",
+      "en": "spicy / hot"
+    },
+    {
+      "chinese": "来不及",
+      "en": "there's not enough time"
+    },
+    {
+      "chinese": "来得及",
+      "en": "there's enough time"
+    },
+    {
+      "chinese": "来自",
+      "en": "come from"
+    },
+    {
+      "chinese": "懒",
+      "en": "lazy"
+    },
+    {
+      "chinese": "浪费",
+      "en": "waste"
+    },
+    {
+      "chinese": "浪漫",
+      "en": "romantic"
+    },
+    {
+      "chinese": "劳驾",
+      "en": "excuse me / may I trouble you"
+    },
+    {
+      "chinese": "老百姓",
+      "en": "common people"
+    },
+    {
+      "chinese": "老板",
+      "en": "boss"
+    },
+    {
+      "chinese": "老实",
+      "en": "honest"
+    },
+    {
+      "chinese": "冷静",
+      "en": "calm"
+    },
+    {
+      "chinese": "梨",
+      "en": "pear"
+    },
+    {
+      "chinese": "离开",
+      "en": "leave"
+    },
+    {
+      "chinese": "礼拜天",
+      "en": "Sunday"
+    },
+    {
+      "chinese": "礼貌",
+      "en": "polite / manners"
+    },
+    {
+      "chinese": "理发",
+      "en": "haircut"
+    },
+    {
+      "chinese": "理解",
+      "en": "understand"
+    },
+    {
+      "chinese": "理论",
+      "en": "theory"
+    },
+    {
+      "chinese": "理想",
+      "en": "ideal"
+    },
+    {
+      "chinese": "厉害",
+      "en": "severe / formidable"
+    },
+    {
+      "chinese": "力量",
+      "en": "strength / power"
+    },
+    {
+      "chinese": "力气",
+      "en": "strength / effort"
+    },
+    {
+      "chinese": "立即",
+      "en": "immediately"
+    },
+    {
+      "chinese": "立刻",
+      "en": "immediately"
+    },
+    {
+      "chinese": "利润",
+      "en": "profit"
+    },
+    {
+      "chinese": "利息",
+      "en": "interest (money)"
+    },
+    {
+      "chinese": "利益",
+      "en": "benefit / interest"
+    },
+    {
+      "chinese": "利用",
+      "en": "use / utilize"
+    },
+    {
+      "chinese": "例如",
+      "en": "for example"
+    },
+    {
+      "chinese": "连",
+      "en": "even / link"
+    },
+    {
+      "chinese": "连忙",
+      "en": "promptly / hurriedly"
+    },
+    {
+      "chinese": "联系",
+      "en": "contact / connection"
+    },
+    {
+      "chinese": "凉快",
+      "en": "cool (temperature)"
+    },
+    {
+      "chinese": "粮食",
+      "en": "grain / food"
+    },
+    {
+      "chinese": "聊天",
+      "en": "chat"
+    },
+    {
+      "chinese": "了不起",
+      "en": "amazing / extraordinary"
+    },
+    {
+      "chinese": "了解",
+      "en": "understand / know"
+    },
+    {
+      "chinese": "邻居",
+      "en": "neighbor"
+    },
+    {
+      "chinese": "零",
+      "en": "zero"
+    },
+    {
+      "chinese": "铃",
+      "en": "bell"
+    },
+    {
+      "chinese": "灵活",
+      "en": "flexible"
+    },
+    {
+      "chinese": "零钱",
+      "en": "change (money)"
+    },
+    {
+      "chinese": "另外",
+      "en": "in addition / other"
+    },
+    {
+      "chinese": "留",
+      "en": "stay / leave behind"
+    },
+    {
+      "chinese": "留学",
+      "en": "study abroad"
+    },
+    {
+      "chinese": "流",
+      "en": "flow / stream"
+    },
+    {
+      "chinese": "流泪",
+      "en": "shed tears"
+    },
+    {
+      "chinese": "流利",
+      "en": "fluent"
+    },
+    {
+      "chinese": "流行",
+      "en": "popular / fashionable"
+    },
+    {
+      "chinese": "楼",
+      "en": "floor / building"
+    },
+    {
+      "chinese": "漏",
+      "en": "leak / leave out"
+    },
+    {
+      "chinese": "录取",
+      "en": "admit / enroll"
+    },
+    {
+      "chinese": "录音",
+      "en": "record / recording"
+    },
+    {
+      "chinese": "陆地",
+      "en": "land"
+    },
+    {
+      "chinese": "轮",
+      "en": "wheel / round"
+    },
+    {
+      "chinese": "论文",
+      "en": "thesis / paper"
+    },
+    {
+      "chinese": "逻辑",
+      "en": "logic"
+    },
+    {
+      "chinese": "落后",
+      "en": "backward / fall behind"
+    },
+    {
+      "chinese": "骂",
+      "en": "scold / curse"
+    },
+    {
+      "chinese": "麻烦",
+      "en": "trouble / bother"
+    },
+    {
+      "chinese": "马虎",
+      "en": "careless"
+    },
+    {
+      "chinese": "满",
+      "en": "full"
+    },
+    {
+      "chinese": "满意",
+      "en": "satisfied"
+    },
+    {
+      "chinese": "毛病",
+      "en": "problem / illness"
+    },
+    {
+      "chinese": "毛巾",
+      "en": "towel"
+    },
+    {
+      "chinese": "矛盾",
+      "en": "contradiction / conflict"
+    },
+    {
+      "chinese": "冒险",
+      "en": "take risks"
+    },
+    {
+      "chinese": "贸易",
+      "en": "trade"
+    },
+    {
+      "chinese": "美丽",
+      "en": "beautiful"
+    },
+    {
+      "chinese": "梦",
+      "en": "dream"
+    },
+    {
+      "chinese": "梦想",
+      "en": "dream / aspiration"
+    },
+    {
+      "chinese": "迷路",
+      "en": "get lost"
+    },
+    {
+      "chinese": "秘密",
+      "en": "secret"
+    },
+    {
+      "chinese": "秘书",
+      "en": "secretary"
+    },
+    {
+      "chinese": "密切",
+      "en": "close / intimate"
+    },
+    {
+      "chinese": "免费",
+      "en": "free of charge"
+    },
+    {
+      "chinese": "勉强",
+      "en": "reluctant / force"
+    },
+    {
+      "chinese": "面积",
+      "en": "area"
+    },
+    {
+      "chinese": "面临",
+      "en": "face / be confronted with"
+    },
+    {
+      "chinese": "苗条",
+      "en": "slim / slender"
+    },
+    {
+      "chinese": "描写",
+      "en": "describe / depict"
+    },
+    {
+      "chinese": "民主",
+      "en": "democracy / democratic"
+    },
+    {
+      "chinese": "民族",
+      "en": "nation / ethnic group"
+    },
+    {
+      "chinese": "名牌",
+      "en": "famous brand"
+    },
+    {
+      "chinese": "名片",
+      "en": "business card"
+    },
+    {
+      "chinese": "明确",
+      "en": "clear / definite"
+    },
+    {
+      "chinese": "明显",
+      "en": "obvious / clear"
+    },
+    {
+      "chinese": "命令",
+      "en": "order / command"
+    },
+    {
+      "chinese": "命运",
+      "en": "fate / destiny"
+    },
+    {
+      "chinese": "摸",
+      "en": "touch / feel"
+    },
+    {
+      "chinese": "模仿",
+      "en": "imitate"
+    },
+    {
+      "chinese": "模糊",
+      "en": "vague / blurred"
+    },
+    {
+      "chinese": "陌生",
+      "en": "strange / unfamiliar"
+    },
+    {
+      "chinese": "某",
+      "en": "certain / some"
+    },
+    {
+      "chinese": "目标",
+      "en": "target / goal"
+    },
+    {
+      "chinese": "目的",
+      "en": "purpose / aim"
+    },
+    {
+      "chinese": "目前",
+      "en": "at present / currently"
+    },
+    {
+      "chinese": "木",
+      "en": "wood / tree"
+    },
+    {
+      "chinese": "耐心",
+      "en": "patient / patience"
+    },
+    {
+      "chinese": "难道",
+      "en": "could it be that"
+    },
+    {
+      "chinese": "难怪",
+      "en": "no wonder"
+    },
+    {
+      "chinese": "难免",
+      "en": "hard to avoid"
+    },
+    {
+      "chinese": "脑袋",
+      "en": "head / brain"
+    },
+    {
+      "chinese": "内",
+      "en": "inside / within"
+    },
+    {
+      "chinese": "内部",
+      "en": "interior / internal"
+    },
+    {
+      "chinese": "内容",
+      "en": "content"
+    },
+    {
+      "chinese": "能力",
+      "en": "ability / capability"
+    },
+    {
+      "chinese": "能源",
+      "en": "energy source"
+    },
+    {
+      "chinese": "年代",
+      "en": "decade / era"
+    },
+    {
+      "chinese": "年龄",
+      "en": "age"
+    },
+    {
+      "chinese": "宁可",
+      "en": "would rather"
+    },
+    {
+      "chinese": "牛仔裤",
+      "en": "jeans"
+    },
+    {
+      "chinese": "农村",
+      "en": "countryside / rural area"
+    },
+    {
+      "chinese": "农民",
+      "en": "farmer / peasant"
+    },
+    {
+      "chinese": "农业",
+      "en": "agriculture"
+    },
+    {
+      "chinese": "浓",
+      "en": "thick / strong (flavor)"
+    },
+    {
+      "chinese": "女士",
+      "en": "Ms. / lady"
+    },
+    {
+      "chinese": "偶尔",
+      "en": "occasionally"
+    },
+    {
+      "chinese": "偶然",
+      "en": "accidental / by chance"
+    },
+    {
+      "chinese": "排列",
+      "en": "arrange / line up"
+    },
+    {
+      "chinese": "排队",
+      "en": "queue / line up"
+    },
+    {
+      "chinese": "判断",
+      "en": "judge / determine"
+    },
+    {
+      "chinese": "盼望",
+      "en": "hope for / look forward to"
+    },
+    {
+      "chinese": "培训",
+      "en": "train"
+    },
+    {
+      "chinese": "培养",
+      "en": "cultivate / develop"
+    },
+    {
+      "chinese": "配合",
+      "en": "cooperate / coordinate"
+    },
+    {
+      "chinese": "佩服",
+      "en": "admire"
+    },
+    {
+      "chinese": "批",
+      "en": "batch /批评 criticize"
+    },
+    {
+      "chinese": "批准",
+      "en": "approve"
+    },
+    {
+      "chinese": "批评",
+      "en": "criticize"
+    },
+    {
+      "chinese": "疲劳",
+      "en": "tired / fatigue"
+    },
+    {
+      "chinese": "皮肤",
+      "en": "skin"
+    },
+    {
+      "chinese": "脾气",
+      "en": "temper / temperament"
+    },
+    {
+      "chinese": "匹",
+      "en": "measure word for horses"
+    },
+    {
+      "chinese": "偏",
+      "en": "inclined / partial"
+    },
+    {
+      "chinese": "片",
+      "en": "slice / piece"
+    },
+    {
+      "chinese": "片面",
+      "en": "one-sided"
+    },
+    {
+      "chinese": "漂亮",
+      "en": "beautiful / pretty"
+    },
+    {
+      "chinese": "拼音",
+      "en": "pinyin"
+    },
+    {
+      "chinese": "平",
+      "en": "flat / level / peaceful"
+    },
+    {
+      "chinese": "平常",
+      "en": "ordinary / usually"
+    },
+    {
+      "chinese": "平等",
+      "en": "equal"
+    },
+    {
+      "chinese": "平方",
+      "en": "square (measurement)"
+    },
+    {
+      "chinese": "平静",
+      "en": "calm / peaceful"
+    },
+    {
+      "chinese": "平衡",
+      "en": "balance"
+    },
+    {
+      "chinese": "评价",
+      "en": "evaluate / assessment"
+    },
+    {
+      "chinese": "破",
+      "en": "break / broken"
+    },
+    {
+      "chinese": "迫切",
+      "en": "urgent / pressing"
+    },
+    {
+      "chinese": "普遍",
+      "en": "universal / common"
+    },
+    {
+      "chinese": "普通",
+      "en": "ordinary / common"
+    },
+    {
+      "chinese": "朴素",
+      "en": "simple / plain"
+    },
+    {
+      "chinese": "期间",
+      "en": "period / duration"
+    },
+    {
+      "chinese": "其次",
+      "en": "secondly / next"
+    },
+    {
+      "chinese": "其实",
+      "en": "actually / in fact"
+    },
+    {
+      "chinese": "其余",
+      "en": "the rest"
+    },
+    {
+      "chinese": "其中",
+      "en": "among / in which"
+    },
+    {
+      "chinese": "奇怪",
+      "en": "strange / odd"
+    },
+    {
+      "chinese": "企业",
+      "en": "enterprise / company"
+    },
+    {
+      "chinese": "气候",
+      "en": "climate"
+    },
+    {
+      "chinese": "气氛",
+      "en": "atmosphere / ambience"
+    },
+    {
+      "chinese": "谦虚",
+      "en": "modest / humble"
+    },
+    {
+      "chinese": "签证",
+      "en": "visa"
+    },
+    {
+      "chinese": "千万",
+      "en": "must / by all means"
+    },
+    {
+      "chinese": "浅",
+      "en": "shallow / light (color)"
+    },
+    {
+      "chinese": "欠",
+      "en": "owe / lack"
+    },
+    {
+      "chinese": "枪",
+      "en": "gun"
+    },
+    {
+      "chinese": "强调",
+      "en": "emphasize / stress"
+    },
+    {
+      "chinese": "强烈",
+      "en": "strong / intense"
+    },
+    {
+      "chinese": "抢",
+      "en": "snatch / rob"
+    },
+    {
+      "chinese": "悄悄",
+      "en": "quietly / secretly"
+    },
+    {
+      "chinese": "瞧",
+      "en": "look / see"
+    },
+    {
+      "chinese": "巧克力",
+      "en": "chocolate"
+    },
+    {
+      "chinese": "亲戚",
+      "en": "relative"
+    },
+    {
+      "chinese": "亲切",
+      "en": "kind / cordial"
+    },
+    {
+      "chinese": "亲自",
+      "en": "personally / in person"
+    },
+    {
+      "chinese": "勤奋",
+      "en": "diligent / hardworking"
+    },
+    {
+      "chinese": "青",
+      "en": "green / blue / young"
+    },
+    {
+      "chinese": "青春",
+      "en": "youth"
+    },
+    {
+      "chinese": "青少年",
+      "en": "teenagers / youth"
+    },
+    {
+      "chinese": "轻",
+      "en": "light / soft"
+    },
+    {
+      "chinese": "轻视",
+      "en": "despise / look down on"
+    },
+    {
+      "chinese": "轻松",
+      "en": "relaxed / easy"
+    },
+    {
+      "chinese": "清楚",
+      "en": "clear"
+    },
+    {
+      "chinese": "情景",
+      "en": "scene / situation"
+    },
+    {
+      "chinese": "情况",
+      "en": "situation / condition"
+    },
+    {
+      "chinese": "情绪",
+      "en": "mood / emotion"
+    },
+    {
+      "chinese": "请假",
+      "en": "ask for leave"
+    },
+    {
+      "chinese": "请求",
+      "en": "request"
+    },
+    {
+      "chinese": "庆祝",
+      "en": "celebrate"
+    },
+    {
+      "chinese": "球迷",
+      "en": "sports fan"
+    },
+    {
+      "chinese": "区别",
+      "en": "difference / distinguish"
+    },
+    {
+      "chinese": "取",
+      "en": "take / get"
+    },
+    {
+      "chinese": "取消",
+      "en": "cancel"
+    },
+    {
+      "chinese": "娶",
+      "en": "marry (man marrying woman)"
+    },
+    {
+      "chinese": "趣味",
+      "en": "interest / delight"
+    },
+    {
+      "chinese": "全面",
+      "en": "comprehensive / overall"
+    },
+    {
+      "chinese": "全部",
+      "en": "all / entire"
+    },
+    {
+      "chinese": "权利",
+      "en": "right / privilege"
+    },
+    {
+      "chinese": "劝",
+      "en": "advise / persuade"
+    },
+    {
+      "chinese": "缺",
+      "en": "lack / be short of"
+    },
+    {
+      "chinese": "缺点",
+      "en": "shortcoming / defect"
+    },
+    {
+      "chinese": "缺乏",
+      "en": "lack"
+    },
+    {
+      "chinese": "缺少",
+      "en": "lack / be short of"
+    },
+    {
+      "chinese": "确定",
+      "en": "determine / definite"
+    },
+    {
+      "chinese": "确实",
+      "en": "indeed / really"
+    },
+    {
+      "chinese": "群",
+      "en": "group / crowd"
+    },
+    {
+      "chinese": "然而",
+      "en": "however / yet"
+    },
+    {
+      "chinese": "燃烧",
+      "en": "burn"
+    },
+    {
+      "chinese": "热烈",
+      "en": "warm / enthusiastic"
+    },
+    {
+      "chinese": "热闹",
+      "en": "lively / bustling"
+    },
+    {
+      "chinese": "热心",
+      "en": "enthusiastic / warmhearted"
+    },
+    {
+      "chinese": "人才",
+      "en": "talent / talented person"
+    },
+    {
+      "chinese": "人口",
+      "en": "population"
+    },
+    {
+      "chinese": "人类",
+      "en": "humanity / human race"
+    },
+    {
+      "chinese": "人生",
+      "en": "life / human life"
+    },
+    {
+      "chinese": "人物",
+      "en": "figure / character"
+    },
+    {
+      "chinese": "人员",
+      "en": "personnel / staff"
+    },
+    {
+      "chinese": "忍不住",
+      "en": "cannot help but"
+    },
+    {
+      "chinese": "认识",
+      "en": "know / recognize"
+    },
+    {
+      "chinese": "认为",
+      "en": "think / consider"
+    },
+    {
+      "chinese": "认真",
+      "en": "serious / conscientious"
+    },
+    {
+      "chinese": "任何",
+      "en": "any"
+    },
+    {
+      "chinese": "任务",
+      "en": "task / mission"
+    },
+    {
+      "chinese": "扔",
+      "en": "throw"
+    },
+    {
+      "chinese": "仍然",
+      "en": "still / yet"
+    },
+    {
+      "chinese": "日常",
+      "en": "daily / everyday"
+    },
+    {
+      "chinese": "日期",
+      "en": "date"
+    },
+    {
+      "chinese": "日用品",
+      "en": "daily necessities"
+    },
+    {
+      "chinese": "荣幸",
+      "en": "honored"
+    },
+    {
+      "chinese": "荣誉",
+      "en": "honor / glory"
+    },
+    {
+      "chinese": "容易",
+      "en": "easy"
+    },
+    {
+      "chinese": "如",
+      "en": "if / like"
+    },
+    {
+      "chinese": "如何",
+      "en": "how"
+    },
+    {
+      "chinese": "如今",
+      "en": "nowadays"
+    },
+    {
+      "chinese": "软",
+      "en": "soft"
+    },
+    {
+      "chinese": "弱",
+      "en": "weak"
+    },
+    {
+      "chinese": "洒",
+      "en": "sprinkle / spill"
+    },
+    {
+      "chinese": "散步",
+      "en": "take a walk"
+    },
+    {
+      "chinese": "嗓子",
+      "en": "throat / voice"
+    },
+    {
+      "chinese": "色",
+      "en": "color"
+    },
+    {
+      "chinese": "森林",
+      "en": "forest"
+    },
+    {
+      "chinese": "杀",
+      "en": "kill"
+    },
+    {
+      "chinese": "沙漠",
+      "en": "desert"
+    },
+    {
+      "chinese": "傻",
+      "en": "stupid / foolish"
+    },
+    {
+      "chinese": "晒",
+      "en": "dry in the sun"
+    },
+    {
+      "chinese": "删除",
+      "en": "delete"
+    },
+    {
+      "chinese": "闪电",
+      "en": "lightning"
+    },
+    {
+      "chinese": "善良",
+      "en": "kind / kindhearted"
+    },
+    {
+      "chinese": "善于",
+      "en": "be good at"
+    },
+    {
+      "chinese": "伤害",
+      "en": "harm / hurt"
+    },
+    {
+      "chinese": "伤心",
+      "en": "sad / grieved"
+    },
+    {
+      "chinese": "商量",
+      "en": "discuss / consult"
+    },
+    {
+      "chinese": "商品",
+      "en": "commodity / goods"
+    },
+    {
+      "chinese": "稍微",
+      "en": "slightly / a little"
+    },
+    {
+      "chinese": "勺子",
+      "en": "spoon"
+    },
+    {
+      "chinese": "少数",
+      "en": "minority / small number"
+    },
+    {
+      "chinese": "舌头",
+      "en": "tongue"
+    },
+    {
+      "chinese": "设备",
+      "en": "equipment / facilities"
+    },
+    {
+      "chinese": "设计",
+      "en": "design"
+    },
+    {
+      "chinese": "设施",
+      "en": "facilities"
+    },
+    {
+      "chinese": "社会",
+      "en": "society"
+    },
+    {
+      "chinese": "射击",
+      "en": "shoot"
+    },
+    {
+      "chinese": "摄影",
+      "en": "photography"
+    },
+    {
+      "chinese": "申请",
+      "en": "apply for"
+    },
+    {
+      "chinese": "深",
+      "en": "deep / profound"
+    },
+    {
+      "chinese": "深刻",
+      "en": "deep / profound"
+    },
+    {
+      "chinese": "神话",
+      "en": "myth"
+    },
+    {
+      "chinese": "神秘",
+      "en": "mysterious"
+    },
+    {
+      "chinese": "甚至",
+      "en": "even / so far as to"
+    },
+    {
+      "chinese": "升",
+      "en": "rise / liter"
+    },
+    {
+      "chinese": "生产",
+      "en": "produce / production"
+    },
+    {
+      "chinese": "生动",
+      "en": "vivid / lively"
+    },
+    {
+      "chinese": "生命",
+      "en": "life"
+    },
+    {
+      "chinese": "生意",
+      "en": "business"
+    },
+    {
+      "chinese": "生长",
+      "en": "grow"
+    },
+    {
+      "chinese": "胜利",
+      "en": "victory / win"
+    },
+    {
+      "chinese": "省",
+      "en": "province / save"
+    },
+    {
+      "chinese": "圣诞节",
+      "en": "Christmas"
+    },
+    {
+      "chinese": "失败",
+      "en": "fail / failure"
+    },
+    {
+      "chinese": "失望",
+      "en": "disappointed"
+    },
+    {
+      "chinese": "失业",
+      "en": "unemployed / lose job"
+    },
+    {
+      "chinese": "师傅",
+      "en": "master / skilled worker"
+    },
+    {
+      "chinese": "诗",
+      "en": "poem / poetry"
+    },
+    {
+      "chinese": "十分",
+      "en": "very / fully"
+    },
+    {
+      "chinese": "石头",
+      "en": "stone / rock"
+    },
+    {
+      "chinese": "时代",
+      "en": "era / age"
+    },
+    {
+      "chinese": "时刻",
+      "en": "moment / time"
+    },
+    {
+      "chinese": "时期",
+      "en": "period / phase"
+    },
+    {
+      "chinese": "实话",
+      "en": "truth"
+    },
+    {
+      "chinese": "实际",
+      "en": "actual / practical"
+    },
+    {
+      "chinese": "实践",
+      "en": "practice"
+    },
+    {
+      "chinese": "实习",
+      "en": "intern / practice"
+    },
+    {
+      "chinese": "实现",
+      "en": "realize / achieve"
+    },
+    {
+      "chinese": "实行",
+      "en": "implement / carry out"
+    },
+    {
+      "chinese": "实验",
+      "en": "experiment / test"
+    },
+    {
+      "chinese": "实用",
+      "en": "practical / pragmatic"
+    },
+    {
+      "chinese": "食物",
+      "en": "food"
+    },
+    {
+      "chinese": "使",
+      "en": "make / use"
+    },
+    {
+      "chinese": "使用",
+      "en": "use"
+    },
+    {
+      "chinese": "始终",
+      "en": "from beginning to end / all along"
+    },
+    {
+      "chinese": "士兵",
+      "en": "soldier"
+    },
+    {
+      "chinese": "示",
+      "en": "show / indicate"
+    },
+    {
+      "chinese": "世纪",
+      "en": "century"
+    },
+    {
+      "chinese": "世界",
+      "en": "world"
+    },
+    {
+      "chinese": "市场",
+      "en": "market"
+    },
+    {
+      "chinese": "事实",
+      "en": "fact"
+    },
+    {
+      "chinese": "事物",
+      "en": "thing / object"
+    },
+    {
+      "chinese": "事先",
+      "en": "in advance / beforehand"
+    },
+    {
+      "chinese": "试",
+      "en": "try / test"
+    },
+    {
+      "chinese": "试卷",
+      "en": "exam paper"
+    },
+    {
+      "chinese": "收",
+      "en": "receive / collect"
+    },
+    {
+      "chinese": "收获",
+      "en": "harvest / gain"
+    },
+    {
+      "chinese": "收据",
+      "en": "receipt"
+    },
+    {
+      "chinese": "收入",
+      "en": "income"
+    },
+    {
+      "chinese": "收拾",
+      "en": "tidy up"
+    },
+    {
+      "chinese": "手指",
+      "en": "finger"
+    },
+    {
+      "chinese": "手术",
+      "en": "surgery / operation"
+    },
+    {
+      "chinese": "首都",
+      "en": "capital city"
+    },
+    {
+      "chinese": "首先",
+      "en": "first / firstly"
+    },
+    {
+      "chinese": "受",
+      "en": "receive / suffer"
+    },
+    {
+      "chinese": "受不了",
+      "en": "cannot stand"
+    },
+    {
+      "chinese": "受到",
+      "en": "receive / suffer"
+    },
+    {
+      "chinese": "售货员",
+      "en": "shop assistant"
+    },
+    {
+      "chinese": "寿命",
+      "en": "lifespan"
+    },
+    {
+      "chinese": "输",
+      "en": "lose / transport"
+    },
+    {
+      "chinese": "输入",
+      "en": "input"
+    },
+    {
+      "chinese": "熟练",
+      "en": "skilled / proficient"
+    },
+    {
+      "chinese": "熟悉",
+      "en": "familiar"
+    },
+    {
+      "chinese": "数",
+      "en": "number / count"
+    },
+    {
+      "chinese": "数量",
+      "en": "quantity / amount"
+    },
+    {
+      "chinese": "数码",
+      "en": "digital"
+    },
+    {
+      "chinese": "数字",
+      "en": "number / digit / figure"
+    },
+    {
+      "chinese": "率",
+      "en": "rate / ratio"
+    },
+    {
+      "chinese": "刷牙",
+      "en": "brush teeth"
+    },
+    {
+      "chinese": "摔",
+      "en": "fall / throw"
+    },
+    {
+      "chinese": "双方",
+      "en": "both sides"
+    },
+    {
+      "chinese": "税",
+      "en": "tax"
+    },
+    {
+      "chinese": "说不定",
+      "en": "maybe / perhaps"
+    },
+    {
+      "chinese": "说服",
+      "en": "persuade / convince"
+    },
+    {
+      "chinese": "说明",
+      "en": "explain / explanation"
+    },
+    {
+      "chinese": "硕士",
+      "en": "master's degree"
+    },
+    {
+      "chinese": "死",
+      "en": "die / death"
+    },
+    {
+      "chinese": "丝绸",
+      "en": "silk"
+    },
+    {
+      "chinese": "思考",
+      "en": "think / ponder"
+    },
+    {
+      "chinese": "思想",
+      "en": "thought / ideology"
+    },
+    {
+      "chinese": "私人",
+      "en": "private / personal"
+    },
+    {
+      "chinese": "似的",
+      "en": "like / as if"
+    },
+    {
+      "chinese": "似乎",
+      "en": "seem / as if"
+    },
+    {
+      "chinese": "寺庙",
+      "en": "temple"
+    },
+    {
+      "chinese": "饲养",
+      "en": "raise / breed"
+    },
+    {
+      "chinese": "送",
+      "en": "give / send"
+    },
+    {
+      "chinese": "速度",
+      "en": "speed / velocity"
+    },
+    {
+      "chinese": "塑料袋",
+      "en": "plastic bag"
+    },
+    {
+      "chinese": "酸",
+      "en": "sour"
+    },
+    {
+      "chinese": "算",
+      "en": "count / calculate / consider"
+    },
+    {
+      "chinese": "随便",
+      "en": "casual / as one likes"
+    },
+    {
+      "chinese": "随时",
+      "en": "at any time"
+    },
+    {
+      "chinese": "随着",
+      "en": "along with / following"
+    },
+    {
+      "chinese": "损失",
+      "en": "loss"
+    },
+    {
+      "chinese": "缩短",
+      "en": "shorten"
+    },
+    {
+      "chinese": "缩小",
+      "en": "reduce / shrink"
+    },
+    {
+      "chinese": "所",
+      "en": "measure word / place"
+    },
+    {
+      "chinese": "所有",
+      "en": "all / own"
+    },
+    {
+      "chinese": "台",
+      "en": "platform / measure word"
+    },
+    {
+      "chinese": "太极拳",
+      "en": "tai chi"
+    },
+    {
+      "chinese": "态度",
+      "en": "attitude"
+    },
+    {
+      "chinese": "谈",
+      "en": "talk / discuss"
+    },
+    {
+      "chinese": "弹钢琴",
+      "en": "play piano"
+    },
+    {
+      "chinese": "坦率",
+      "en": "frank / candid"
+    },
+    {
+      "chinese": "汤",
+      "en": "soup"
+    },
+    {
+      "chinese": "糖",
+      "en": "sugar / candy"
+    },
+    {
+      "chinese": "躺",
+      "en": "lie down"
+    },
+    {
+      "chinese": "趟",
+      "en": "measure word for trips"
+    },
+    {
+      "chinese": "桃",
+      "en": "peach"
+    },
+    {
+      "chinese": "逃",
+      "en": "escape / run away"
+    },
+    {
+      "chinese": "逃避",
+      "en": "evade / avoid"
+    },
+    {
+      "chinese": "讨价还价",
+      "en": "bargain"
+    },
+    {
+      "chinese": "讨论",
+      "en": "discuss"
+    },
+    {
+      "chinese": "讨厌",
+      "en": "dislike / disgusting"
+    },
+    {
+      "chinese": "套",
+      "en": "set / measure word"
+    },
+    {
+      "chinese": "特色",
+      "en": "characteristic / special feature"
+    },
+    {
+      "chinese": "特殊",
+      "en": "special / particular"
+    },
+    {
+      "chinese": "特征",
+      "en": "characteristic / feature"
+    },
+    {
+      "chinese": "提",
+      "en": "raise / mention"
+    },
+    {
+      "chinese": "提倡",
+      "en": "advocate / promote"
+    },
+    {
+      "chinese": "提纲",
+      "en": "outline"
+    },
+    {
+      "chinese": "提供",
+      "en": "provide / supply"
+    },
+    {
+      "chinese": "提高",
+      "en": "improve / increase"
+    },
+    {
+      "chinese": "提前",
+      "en": "in advance / ahead of time"
+    },
+    {
+      "chinese": "提问",
+      "en": "ask questions"
+    },
+    {
+      "chinese": "提醒",
+      "en": "remind"
+    },
+    {
+      "chinese": "题目",
+      "en": "topic / question / title"
+    },
+    {
+      "chinese": "体会",
+      "en": "realize / experience"
+    },
+    {
+      "chinese": "体积",
+      "en": "volume"
+    },
+    {
+      "chinese": "体贴",
+      "en": "considerate"
+    },
+    {
+      "chinese": "体现",
+      "en": "embody / reflect"
+    },
+    {
+      "chinese": "体验",
+      "en": "experience"
+    },
+    {
+      "chinese": "天空",
+      "en": "sky"
+    },
+    {
+      "chinese": "天真",
+      "en": "naive / innocent"
+    },
+    {
+      "chinese": "填空",
+      "en": "fill in blanks"
+    },
+    {
+      "chinese": "挑",
+      "en": "choose / carry on shoulder"
+    },
+    {
+      "chinese": "挑战",
+      "en": "challenge"
+    },
+    {
+      "chinese": "条件",
+      "en": "condition"
+    },
+    {
+      "chinese": "调整",
+      "en": "adjust"
+    },
+    {
+      "chinese": "停",
+      "en": "stop"
+    },
+    {
+      "chinese": "挺",
+      "en": "quite / very / straighten"
+    },
+    {
+      "chinese": "通常",
+      "en": "usually"
+    },
+    {
+      "chinese": "通过",
+      "en": "pass / through / by means of"
+    },
+    {
+      "chinese": "通讯",
+      "en": "communication"
+    },
+    {
+      "chinese": "通知",
+      "en": "notify / notice"
+    },
+    {
+      "chinese": "同情",
+      "en": "sympathize / sympathy"
+    },
+    {
+      "chinese": "同时",
+      "en": "at the same time"
+    },
+    {
+      "chinese": "铜",
+      "en": "copper"
+    },
+    {
+      "chinese": "统一",
+      "en": "unify / unified"
+    },
+    {
+      "chinese": "统治",
+      "en": "rule / dominate"
+    },
+    {
+      "chinese": "痛苦",
+      "en": "pain / suffering"
+    },
+    {
+      "chinese": "痛快",
+      "en": "happy / joyful"
+    },
+    {
+      "chinese": "偷",
+      "en": "steal"
+    },
+    {
+      "chinese": "投",
+      "en": "throw / invest"
+    },
+    {
+      "chinese": "投资",
+      "en": "invest / investment"
+    },
+    {
+      "chinese": "透明",
+      "en": "transparent"
+    },
+    {
+      "chinese": "突出",
+      "en": "outstanding / prominent"
+    },
+    {
+      "chinese": "突然",
+      "en": "sudden / suddenly"
+    },
+    {
+      "chinese": "图书馆",
+      "en": "library"
+    },
+    {
+      "chinese": "土",
+      "en": "earth / soil"
+    },
+    {
+      "chinese": "土地",
+      "en": "land"
+    },
+    {
+      "chinese": "吐",
+      "en": "spit / vomit"
+    },
+    {
+      "chinese": "兔",
+      "en": "rabbit"
+    },
+    {
+      "chinese": "团",
+      "en": "group / regiment / ball"
+    },
+    {
+      "chinese": "推",
+      "en": "push"
+    },
+    {
+      "chinese": "推辞",
+      "en": "decline / refuse"
+    },
+    {
+      "chinese": "推迟",
+      "en": "postpone / delay"
+    },
+    {
+      "chinese": "推广",
+      "en": "popularize / spread"
+    },
+    {
+      "chinese": "推荐",
+      "en": "recommend"
+    },
+    {
+      "chinese": "退",
+      "en": "retreat / refund"
+    },
+    {
+      "chinese": "退步",
+      "en": "regress / fall behind"
+    },
+    {
+      "chinese": "退休",
+      "en": "retire"
+    },
+    {
+      "chinese": "歪",
+      "en": "crooked / askew"
+    },
+    {
+      "chinese": "外交",
+      "en": "diplomacy / foreign affairs"
+    },
+    {
+      "chinese": "完",
+      "en": "finish / complete"
+    },
+    {
+      "chinese": "完美",
+      "en": "perfect"
+    },
+    {
+      "chinese": "完全",
+      "en": "complete / completely"
+    },
+    {
+      "chinese": "完整",
+      "en": "complete / intact"
+    },
+    {
+      "chinese": "玩具",
+      "en": "toy"
+    },
+    {
+      "chinese": "万",
+      "en": "ten thousand"
+    },
+    {
+      "chinese": "往",
+      "en": "towards / to"
+    },
+    {
+      "chinese": "往返",
+      "en": "round trip"
+    },
+    {
+      "chinese": "往往",
+      "en": "often / frequently"
+    },
+    {
+      "chinese": "网络",
+      "en": "network / internet"
+    },
+    {
+      "chinese": "网球",
+      "en": "tennis"
+    },
+    {
+      "chinese": "网站",
+      "en": "website"
+    },
+    {
+      "chinese": "危害",
+      "en": "harm / endanger"
+    },
+    {
+      "chinese": "危险",
+      "en": "dangerous / danger"
+    },
+    {
+      "chinese": "微笑",
+      "en": "smile"
+    },
+    {
+      "chinese": "违反",
+      "en": "violate / break"
+    },
+    {
+      "chinese": "围",
+      "en": "surround / around"
+    },
+    {
+      "chinese": "围巾",
+      "en": "scarf"
+    },
+    {
+      "chinese": "围绕",
+      "en": "revolve around / center on"
+    },
+    {
+      "chinese": "唯一",
+      "en": "only / sole"
+    },
+    {
+      "chinese": "维护",
+      "en": "maintain / defend"
+    },
+    {
+      "chinese": "维修",
+      "en": "maintain / repair"
+    },
+    {
+      "chinese": "伟大",
+      "en": "great"
+    },
+    {
+      "chinese": "卫生间",
+      "en": "bathroom / restroom"
+    },
+    {
+      "chinese": "未必",
+      "en": "not necessarily"
+    },
+    {
+      "chinese": "未来",
+      "en": "future"
+    },
+    {
+      "chinese": "位",
+      "en": "position / measure word for people"
+    },
+    {
+      "chinese": "位于",
+      "en": "be located / be situated"
+    },
+    {
+      "chinese": "位置",
+      "en": "position / location"
+    },
+    {
+      "chinese": "味道",
+      "en": "taste / flavor / smell"
+    },
+    {
+      "chinese": "畏",
+      "en": "fear"
+    },
+    {
+      "chinese": "温度",
+      "en": "temperature"
+    },
+    {
+      "chinese": "温暖",
+      "en": "warm"
+    },
+    {
+      "chinese": "文化",
+      "en": "culture"
+    },
+    {
+      "chinese": "文件",
+      "en": "document / file"
+    },
+    {
+      "chinese": "文明",
+      "en": "civilization / civilized"
+    },
+    {
+      "chinese": "文学",
+      "en": "literature"
+    },
+    {
+      "chinese": "文章",
+      "en": "article / essay"
+    },
+    {
+      "chinese": "闻",
+      "en": "smell / hear / news"
+    },
+    {
+      "chinese": "吻",
+      "en": "kiss"
+    },
+    {
+      "chinese": "稳定",
+      "en": "stable / steady"
+    },
+    {
+      "chinese": "问候",
+      "en": "greet / regards"
+    },
+    {
+      "chinese": "污染",
+      "en": "pollute / pollution"
+    },
+    {
+      "chinese": "无",
+      "en": "not have / without"
+    },
+    {
+      "chinese": "无论",
+      "en": "no matter / regardless of"
+    },
+    {
+      "chinese": "无奈",
+      "en": "have no choice but / helpless"
+    },
+    {
+      "chinese": "无数",
+      "en": "countless / innumerable"
+    },
+    {
+      "chinese": "武术",
+      "en": "martial arts / wushu"
+    },
+    {
+      "chinese": "武器",
+      "en": "weapon"
+    },
+    {
+      "chinese": "物理",
+      "en": "physics"
+    },
+    {
+      "chinese": "物质",
+      "en": "matter / substance / material"
+    },
+    {
+      "chinese": "误会",
+      "en": "misunderstand / misunderstanding"
+    },
+    {
+      "chinese": "西红柿",
+      "en": "tomato"
+    },
+    {
+      "chinese": "吸收",
+      "en": "absorb"
+    },
+    {
+      "chinese": "吸引",
+      "en": "attract"
+    },
+    {
+      "chinese": "希望",
+      "en": "hope / wish"
+    },
+    {
+      "chinese": "牺牲",
+      "en": "sacrifice"
+    },
+    {
+      "chinese": "习惯",
+      "en": "habit / be accustomed to"
+    },
+    {
+      "chinese": "洗手间",
+      "en": "restroom / bathroom"
+    },
+    {
+      "chinese": "洗衣机",
+      "en": "washing machine"
+    },
+    {
+      "chinese": "喜爱",
+      "en": "like / love"
+    },
+    {
+      "chinese": "系",
+      "en": "tie / department / system"
+    },
+    {
+      "chinese": "系统",
+      "en": "system"
+    },
+    {
+      "chinese": "细节",
+      "en": "detail"
+    },
+    {
+      "chinese": "细心",
+      "en": "careful / attentive"
+    },
+    {
+      "chinese": "瞎",
+      "en": "blind / groundless"
+    },
+    {
+      "chinese": "狭窄",
+      "en": "narrow"
+    },
+    {
+      "chinese": "夏令营",
+      "en": "summer camp"
+    },
+    {
+      "chinese": "显得",
+      "en": "seem / appear"
+    },
+    {
+      "chinese": "显然",
+      "en": "obviously / evidently"
+    },
+    {
+      "chinese": "显示",
+      "en": "show / display"
+    },
+    {
+      "chinese": "县",
+      "en": "county"
+    },
+    {
+      "chinese": "现场",
+      "en": "scene / site"
+    },
+    {
+      "chinese": "现代",
+      "en": "modern / contemporary"
+    },
+    {
+      "chinese": "现实",
+      "en": "reality / realistic"
+    },
+    {
+      "chinese": "现象",
+      "en": "phenomenon"
+    },
+    {
+      "chinese": "限制",
+      "en": "restrict / limit"
+    },
+    {
+      "chinese": "羡慕",
+      "en": "admire / envy"
+    },
+    {
+      "chinese": "相当",
+      "en": "quite / considerable"
+    },
+    {
+      "chinese": "相对",
+      "en": "relative / relatively"
+    },
+    {
+      "chinese": "相反",
+      "en": "opposite / contrary"
+    },
+    {
+      "chinese": "相关",
+      "en": "related / relevant"
+    },
+    {
+      "chinese": "相似",
+      "en": "similar / resemble"
+    },
+    {
+      "chinese": "详细",
+      "en": "detailed"
+    },
+    {
+      "chinese": "想法",
+      "en": "idea / thought"
+    },
+    {
+      "chinese": "想象",
+      "en": "imagine / imagination"
+    },
+    {
+      "chinese": "项",
+      "en": "item / measure word"
+    },
+    {
+      "chinese": "项目",
+      "en": "project / item"
+    },
+    {
+      "chinese": "象棋",
+      "en": "Chinese chess"
+    },
+    {
+      "chinese": "象征",
+      "en": "symbol / symbolize"
+    },
+    {
+      "chinese": "消费",
+      "en": "consume / consumption"
+    },
+    {
+      "chinese": "消化",
+      "en": "digest / digestion"
+    },
+    {
+      "chinese": "消极",
+      "en": "negative / passive"
+    },
+    {
+      "chinese": "消灭",
+      "en": "eliminate / wipe out"
+    },
+    {
+      "chinese": "消失",
+      "en": "disappear / vanish"
+    },
+    {
+      "chinese": "销售",
+      "en": "sell / sale"
+    },
+    {
+      "chinese": "小吃",
+      "en": "snack"
+    },
+    {
+      "chinese": "小伙子",
+      "en": "young man"
+    },
+    {
+      "chinese": "小麦",
+      "en": "wheat"
+    },
+    {
+      "chinese": "小气",
+      "en": "stingy / petty"
+    },
+    {
+      "chinese": "小说",
+      "en": "novel / fiction"
+    },
+    {
+      "chinese": "效果",
+      "en": "effect / result"
+    },
+    {
+      "chinese": "孝顺",
+      "en": "filial piety / dutiful"
+    },
+    {
+      "chinese": "笑话",
+      "en": "joke / laugh at"
+    },
+    {
+      "chinese": "协调",
+      "en": "coordinate"
+    },
+    {
+      "chinese": "写作",
+      "en": "write / writing"
+    },
+    {
+      "chinese": "谢谢",
+      "en": "thank you"
+    },
+    {
+      "chinese": "心理",
+      "en": "psychology / mentality"
+    },
+    {
+      "chinese": "心情",
+      "en": "mood / frame of mind"
+    },
+    {
+      "chinese": "心脏",
+      "en": "heart"
+    },
+    {
+      "chinese": "辛苦",
+      "en": "hard / laborious"
+    },
+    {
+      "chinese": "欣赏",
+      "en": "appreciate / enjoy"
+    },
+    {
+      "chinese": "新闻",
+      "en": "news"
+    },
+    {
+      "chinese": "新鲜",
+      "en": "fresh / novel"
+    },
+    {
+      "chinese": "信",
+      "en": "letter / believe"
+    },
+    {
+      "chinese": "信封",
+      "en": "envelope"
+    },
+    {
+      "chinese": "信号",
+      "en": "signal"
+    },
+    {
+      "chinese": "信任",
+      "en": "trust"
+    },
+    {
+      "chinese": "信息",
+      "en": "information"
+    },
+    {
+      "chinese": "信心",
+      "en": "confidence"
+    },
+    {
+      "chinese": "信用卡",
+      "en": "credit card"
+    },
+    {
+      "chinese": "兴奋",
+      "en": "excited / excitement"
+    },
+    {
+      "chinese": "行",
+      "en": "row / profession / OK"
+    },
+    {
+      "chinese": "行为",
+      "en": "behavior / conduct"
+    },
+    {
+      "chinese": "形成",
+      "en": "form / take shape"
+    },
+    {
+      "chinese": "形式",
+      "en": "form / pattern"
+    },
+    {
+      "chinese": "形势",
+      "en": "situation / circumstances"
+    },
+    {
+      "chinese": "形象",
+      "en": "image / figure"
+    },
+    {
+      "chinese": "形状",
+      "en": "shape / form"
+    },
+    {
+      "chinese": "醒",
+      "en": "wake up / sober"
+    },
+    {
+      "chinese": "幸福",
+      "en": "happy / happiness"
+    },
+    {
+      "chinese": "幸亏",
+      "en": "fortunately / luckily"
+    },
+    {
+      "chinese": "性别",
+      "en": "gender / sex"
+    },
+    {
+      "chinese": "性格",
+      "en": "personality / character"
+    },
+    {
+      "chinese": "性质",
+      "en": "nature / character"
+    },
+    {
+      "chinese": "凶",
+      "en": "fierce / terrible"
+    },
+    {
+      "chinese": "胸",
+      "en": "chest / breast"
+    },
+    {
+      "chinese": "雄伟",
+      "en": "magnificent / grand"
+    },
+    {
+      "chinese": "休闲",
+      "en": "leisure"
+    },
+    {
+      "chinese": "修",
+      "en": "repair / build"
+    },
+    {
+      "chinese": "修改",
+      "en": "revise / modify"
+    },
+    {
+      "chinese": "虚心",
+      "en": "modest / open-minded"
+    },
+    {
+      "chinese": "许多",
+      "en": "many / much"
+    },
+    {
+      "chinese": "宣布",
+      "en": "announce / declare"
+    },
+    {
+      "chinese": "宣传",
+      "en": "publicize / propaganda"
+    },
+    {
+      "chinese": "选择",
+      "en": "choose / choice"
+    },
+    {
+      "chinese": "学历",
+      "en": "educational background"
+    },
+    {
+      "chinese": "学术",
+      "en": "academic / learning"
+    },
+    {
+      "chinese": "学问",
+      "en": "learning / knowledge"
+    },
+    {
+      "chinese": "血",
+      "en": "blood"
+    },
+    {
+      "chinese": "寻找",
+      "en": "search / look for"
+    },
+    {
+      "chinese": "询问",
+      "en": "inquire / ask about"
+    },
+    {
+      "chinese": "训练",
+      "en": "train / drill"
+    },
+    {
+      "chinese": "迅速",
+      "en": "rapid / swift"
+    },
+    {
+      "chinese": "压",
+      "en": "press / pressure"
+    },
+    {
+      "chinese": "压力",
+      "en": "pressure / stress"
+    },
+    {
+      "chinese": "押金",
+      "en": "deposit"
+    },
+    {
+      "chinese": "牙膏",
+      "en": "toothpaste"
+    },
+    {
+      "chinese": "亚洲",
+      "en": "Asia"
+    },
+    {
+      "chinese": "延长",
+      "en": "extend / prolong"
+    },
+    {
+      "chinese": "严格",
+      "en": "strict / rigorous"
+    },
+    {
+      "chinese": "严肃",
+      "en": "serious / solemn"
+    },
+    {
+      "chinese": "严重",
+      "en": "serious / severe"
+    },
+    {
+      "chinese": "研究",
+      "en": "research / study"
+    },
+    {
+      "chinese": "盐",
+      "en": "salt"
+    },
+    {
+      "chinese": "眼镜",
+      "en": "glasses / eyeglasses"
+    },
+    {
+      "chinese": "演出",
+      "en": "perform / performance"
+    },
+    {
+      "chinese": "演讲",
+      "en": "speech / lecture"
+    },
+    {
+      "chinese": "阳光",
+      "en": "sunshine / sunlight"
+    },
+    {
+      "chinese": "羊",
+      "en": "sheep"
+    },
+    {
+      "chinese": "养成",
+      "en": "cultivate / form (habit)"
+    },
+    {
+      "chinese": "样式",
+      "en": "style / pattern"
+    },
+    {
+      "chinese": "腰",
+      "en": "waist / lower back"
+    },
+    {
+      "chinese": "摇",
+      "en": "shake / rock"
+    },
+    {
+      "chinese": "咬",
+      "en": "bite"
+    },
+    {
+      "chinese": "要不",
+      "en": "otherwise / or"
+    },
+    {
+      "chinese": "要么",
+      "en": "either... or"
+    },
+    {
+      "chinese": "要是",
+      "en": "if"
+    },
+    {
+      "chinese": "钥匙",
+      "en": "key"
+    },
+    {
+      "chinese": "野",
+      "en": "wild"
+    },
+    {
+      "chinese": "页",
+      "en": "page"
+    },
+    {
+      "chinese": "业务",
+      "en": "business"
+    },
+    {
+      "chinese": "业余",
+      "en": "spare time / amateur"
+    },
+    {
+      "chinese": "叶子",
+      "en": "leaf"
+    },
+    {
+      "chinese": "夜",
+      "en": "night"
+    },
+    {
+      "chinese": "一辈子",
+      "en": "lifetime / all one's life"
+    },
+    {
+      "chinese": "一旦",
+      "en": "once / in case"
+    },
+    {
+      "chinese": "一致",
+      "en": "consistent / identical"
+    },
+    {
+      "chinese": "依然",
+      "en": "still / as before"
+    },
+    {
+      "chinese": "依靠",
+      "en": "rely on / depend on"
+    },
+    {
+      "chinese": "医疗",
+      "en": "medical treatment"
+    },
+    {
+      "chinese": "移动",
+      "en": "move / mobile"
+    },
+    {
+      "chinese": "移民",
+      "en": "immigrate / immigrant"
+    },
+    {
+      "chinese": "遗憾",
+      "en": "regret / pity"
+    },
+    {
+      "chinese": "疑问",
+      "en": "question / doubt"
+    },
+    {
+      "chinese": "以",
+      "en": "with / by / according to"
+    },
+    {
+      "chinese": "以及",
+      "en": "and / as well as"
+    },
+    {
+      "chinese": "以为",
+      "en": "think / believe"
+    },
+    {
+      "chinese": "亿",
+      "en": "hundred million"
+    },
+    {
+      "chinese": "艺术",
+      "en": "art"
+    },
+    {
+      "chinese": "议论",
+      "en": "discuss / comment"
+    },
+    {
+      "chinese": "意见",
+      "en": "opinion / suggestion"
+    },
+    {
+      "chinese": "意识",
+      "en": "consciousness / awareness"
+    },
+    {
+      "chinese": "意外",
+      "en": "unexpected / accident"
+    },
+    {
+      "chinese": "意义",
+      "en": "meaning / significance"
+    },
+    {
+      "chinese": "毅力",
+      "en": "willpower / perseverance"
+    },
+    {
+      "chinese": "因而",
+      "en": "thus / therefore"
+    },
+    {
+      "chinese": "因素",
+      "en": "factor / element"
+    },
+    {
+      "chinese": "因此",
+      "en": "therefore / thus"
+    },
+    {
+      "chinese": "阴",
+      "en": "cloudy / shade / negative"
+    },
+    {
+      "chinese": "音乐会",
+      "en": "concert"
+    },
+    {
+      "chinese": "银",
+      "en": "silver"
+    },
+    {
+      "chinese": "引起",
+      "en": "cause / arouse"
+    },
+    {
+      "chinese": "印刷",
+      "en": "print"
+    },
+    {
+      "chinese": "印象",
+      "en": "impression"
+    },
+    {
+      "chinese": "应付",
+      "en": "deal with / cope with"
+    },
+    {
+      "chinese": "应聘",
+      "en": "apply for a job"
+    },
+    {
+      "chinese": "应用",
+      "en": "apply / application"
+    },
+    {
+      "chinese": "硬",
+      "en": "hard / stiff"
+    },
+    {
+      "chinese": "硬件",
+      "en": "hardware"
+    },
+    {
+      "chinese": "拥抱",
+      "en": "hug / embrace"
+    },
+    {
+      "chinese": "拥挤",
+      "en": "crowded"
+    },
+    {
+      "chinese": "永远",
+      "en": "forever / always"
+    },
+    {
+      "chinese": "勇敢",
+      "en": "brave / courageous"
+    },
+    {
+      "chinese": "勇气",
+      "en": "courage"
+    },
+    {
+      "chinese": "用功",
+      "en": "studious / hardworking"
+    },
+    {
+      "chinese": "优点",
+      "en": "advantage / merit"
+    },
+    {
+      "chinese": "优美",
+      "en": "graceful / beautiful"
+    },
+    {
+      "chinese": "优势",
+      "en": "advantage / superiority"
+    },
+    {
+      "chinese": "优秀",
+      "en": "excellent / outstanding"
+    },
+    {
+      "chinese": "幽默",
+      "en": "humorous"
+    },
+    {
+      "chinese": "由",
+      "en": "by / from / due to"
+    },
+    {
+      "chinese": "由于",
+      "en": "due to / because of"
+    },
+    {
+      "chinese": "油",
+      "en": "oil"
+    },
+    {
+      "chinese": "游览",
+      "en": "tour / visit"
+    },
+    {
+      "chinese": "有利",
+      "en": "advantageous / beneficial"
+    },
+    {
+      "chinese": "有趣",
+      "en": "interesting"
+    },
+    {
+      "chinese": "有效",
+      "en": "effective / valid"
+    },
+    {
+      "chinese": "友好",
+      "en": "friendly"
+    },
+    {
+      "chinese": "友谊",
+      "en": "friendship"
+    },
+    {
+      "chinese": "与",
+      "en": "and / with / to"
+    },
+    {
+      "chinese": "语法",
+      "en": "grammar"
+    },
+    {
+      "chinese": "语气",
+      "en": "tone / manner of speaking"
+    },
+    {
+      "chinese": "语言",
+      "en": "language"
+    },
+    {
+      "chinese": "羽毛球",
+      "en": "badminton"
+    },
+    {
+      "chinese": "预报",
+      "en": "forecast"
+    },
+    {
+      "chinese": "预订",
+      "en": "book / reserve"
+    },
+    {
+      "chinese": "预防",
+      "en": "prevent / guard against"
+    },
+    {
+      "chinese": "预习",
+      "en": "preview / prepare lessons"
+    },
+    {
+      "chinese": "元旦",
+      "en": "New Year's Day"
+    },
+    {
+      "chinese": "原来",
+      "en": "original / originally / as it turns out"
+    },
+    {
+      "chinese": "原料",
+      "en": "raw material"
+    },
+    {
+      "chinese": "原谅",
+      "en": "forgive / excuse"
+    },
+    {
+      "chinese": "原因",
+      "en": "reason / cause"
+    },
+    {
+      "chinese": "原则",
+      "en": "principle"
+    },
+    {
+      "chinese": "圆",
+      "en": "round / circle / yuan"
+    },
+    {
+      "chinese": "愿望",
+      "en": "wish / desire"
+    },
+    {
+      "chinese": "约会",
+      "en": "appointment / date"
+    },
+    {
+      "chinese": "阅读",
+      "en": "read"
+    },
+    {
+      "chinese": "云",
+      "en": "cloud"
+    },
+    {
+      "chinese": "允许",
+      "en": "allow / permit"
+    },
+    {
+      "chinese": "运气",
+      "en": "luck / fortune"
+    },
+    {
+      "chinese": "运输",
+      "en": "transport"
+    },
+    {
+      "chinese": "运用",
+      "en": "use / apply"
+    },
+    {
+      "chinese": "灾害",
+      "en": "disaster / calamity"
+    },
+    {
+      "chinese": "再三",
+      "en": "again and again"
+    },
+    {
+      "chinese": "在乎",
+      "en": "care about / mind"
+    },
+    {
+      "chinese": "在于",
+      "en": "lie in / rest with"
+    },
+    {
+      "chinese": "赞成",
+      "en": "approve / agree"
+    },
+    {
+      "chinese": "赞美",
+      "en": "praise / admire"
+    },
+    {
+      "chinese": "脏",
+      "en": "dirty"
+    },
+    {
+      "chinese": "糟糕",
+      "en": "terrible / too bad"
+    },
+    {
+      "chinese": "遭受",
+      "en": "suffer / be subjected to"
+    },
+    {
+      "chinese": "造成",
+      "en": "cause / create"
+    },
+    {
+      "chinese": "则",
+      "en": "then / in that case"
+    },
+    {
+      "chinese": "责任",
+      "en": "responsibility / duty"
+    },
+    {
+      "chinese": "增加",
+      "en": "increase / add"
+    },
+    {
+      "chinese": "增长",
+      "en": "increase / grow"
+    },
+    {
+      "chinese": "窄",
+      "en": "narrow"
+    },
+    {
+      "chinese": "占",
+      "en": "occupy / account for"
+    },
+    {
+      "chinese": "占线",
+      "en": "line is busy"
+    },
+    {
+      "chinese": "战争",
+      "en": "war"
+    },
+    {
+      "chinese": "展开",
+      "en": "unfold / launch"
+    },
+    {
+      "chinese": "展览",
+      "en": "exhibition"
+    },
+    {
+      "chinese": "长辈",
+      "en": "elder / senior"
+    },
+    {
+      "chinese": "掌握",
+      "en": "master / grasp"
+    },
+    {
+      "chinese": "招待",
+      "en": "entertain / serve"
+    },
+    {
+      "chinese": "着急",
+      "en": "worried / anxious"
+    },
+    {
+      "chinese": "着凉",
+      "en": "catch cold"
+    },
+    {
+      "chinese": "召开",
+      "en": "convene / hold (meeting)"
+    },
+    {
+      "chinese": "哲学",
+      "en": "philosophy"
+    },
+    {
+      "chinese": "针对",
+      "en": "in view of /针 针对"
+    },
+    {
+      "chinese": "真实",
+      "en": "true / real"
+    },
+    {
+      "chinese": "真正",
+      "en": "genuine / real"
+    },
+    {
+      "chinese": "珍惜",
+      "en": "cherish / treasure"
+    },
+    {
+      "chinese": "阵",
+      "en": "measure word for occurrences"
+    },
+    {
+      "chinese": "镇静",
+      "en": "calm / composed"
+    },
+    {
+      "chinese": "争论",
+      "en": "argue / dispute"
+    },
+    {
+      "chinese": "争取",
+      "en": "strive for"
+    },
+    {
+      "chinese": "征求",
+      "en": "solicit / seek"
+    },
+    {
+      "chinese": "整个",
+      "en": "whole / entire"
+    },
+    {
+      "chinese": "整理",
+      "en": "put in order / tidy up"
+    },
+    {
+      "chinese": "整齐",
+      "en": "neat / tidy"
+    },
+    {
+      "chinese": "正常",
+      "en": "normal"
+    },
+    {
+      "chinese": "正好",
+      "en": "just right / just in time"
+    },
+    {
+      "chinese": "正确",
+      "en": "correct / right"
+    },
+    {
+      "chinese": "正式",
+      "en": "formal / official"
+    },
+    {
+      "chinese": "证件",
+      "en": "certificate / document"
+    },
+    {
+      "chinese": "证据",
+      "en": "evidence / proof"
+    },
+    {
+      "chinese": "证明",
+      "en": "prove / certificate"
+    },
+    {
+      "chinese": "政策",
+      "en": "policy"
+    },
+    {
+      "chinese": "政府",
+      "en": "government"
+    },
+    {
+      "chinese": "政治",
+      "en": "politics / political"
+    },
+    {
+      "chinese": "支持",
+      "en": "support"
+    },
+    {
+      "chinese": "支票",
+      "en": "check / cheque"
+    },
+    {
+      "chinese": "枝",
+      "en": "branch / measure word"
+    },
+    {
+      "chinese": "知识",
+      "en": "knowledge"
+    },
+    {
+      "chinese": "之",
+      "en": "of / 's"
+    },
+    {
+      "chinese": "之间",
+      "en": "between / among"
+    },
+    {
+      "chinese": "之前",
+      "en": "before / prior to"
+    },
+    {
+      "chinese": "之所以",
+      "en": "the reason why"
+    },
+    {
+      "chinese": "值",
+      "en": "value / be worth"
+    },
+    {
+      "chinese": "值得",
+      "en": "be worth / deserve"
+    },
+    {
+      "chinese": "职业",
+      "en": "occupation / profession"
+    },
+    {
+      "chinese": "植物",
+      "en": "plant"
+    },
+    {
+      "chinese": "指",
+      "en": "point / refer to / finger"
+    },
+    {
+      "chinese": "指导",
+      "en": "guide / instruct"
+    },
+    {
+      "chinese": "指挥",
+      "en": "command / conduct"
+    },
+    {
+      "chinese": "至今",
+      "en": "up to now"
+    },
+    {
+      "chinese": "至少",
+      "en": "at least"
+    },
+    {
+      "chinese": "志愿者",
+      "en": "volunteer"
+    },
+    {
+      "chinese": "制订",
+      "en": "work out / formulate"
+    },
+    {
+      "chinese": "制度",
+      "en": "system / institution"
+    },
+    {
+      "chinese": "制造",
+      "en": "manufacture / make"
+    },
+    {
+      "chinese": "治疗",
+      "en": "treat / cure"
+    },
+    {
+      "chinese": "秩序",
+      "en": "order / sequence"
+    },
+    {
+      "chinese": "智慧",
+      "en": "wisdom / intelligence"
+    },
+    {
+      "chinese": "中介",
+      "en": "agent / agency"
+    },
+    {
+      "chinese": "中年",
+      "en": "middle age"
+    },
+    {
+      "chinese": "中旬",
+      "en": "mid (of month)"
+    },
+    {
+      "chinese": "中心",
+      "en": "center"
+    },
+    {
+      "chinese": "忠诚",
+      "en": "loyal / faithful"
+    },
+    {
+      "chinese": "终于",
+      "en": "finally / at last"
+    },
+    {
+      "chinese": "种",
+      "en": "kind / type / plant / grow"
+    },
+    {
+      "chinese": "种类",
+      "en": "kind / type / category"
+    },
+    {
+      "chinese": "重",
+      "en": "heavy / serious / again"
+    },
+    {
+      "chinese": "重点",
+      "en": "key point / emphasis"
+    },
+    {
+      "chinese": "重视",
+      "en": "attach importance to"
+    },
+    {
+      "chinese": "周围",
+      "en": "around / surrounding"
+    },
+    {
+      "chinese": "猪",
+      "en": "pig"
+    },
+    {
+      "chinese": "主持",
+      "en": "host / preside over"
+    },
+    {
+      "chinese": "主动",
+      "en": "initiative / active"
+    },
+    {
+      "chinese": "主观",
+      "en": "subjective"
+    },
+    {
+      "chinese": "主人",
+      "en": "host / owner"
+    },
+    {
+      "chinese": "主任",
+      "en": "director / head"
+    },
+    {
+      "chinese": "主席",
+      "en": "chairman / president"
+    },
+    {
+      "chinese": "主张",
+      "en": "advocate / hold (view)"
+    },
+    {
+      "chinese": "主意",
+      "en": "idea / decision"
+    },
+    {
+      "chinese": "主要",
+      "en": "main / principal"
+    },
+    {
+      "chinese": "煮",
+      "en": "boil / cook"
+    },
+    {
+      "chinese": "祝福",
+      "en": "blessing / bless"
+    },
+    {
+      "chinese": "祝贺",
+      "en": "congratulate"
+    },
+    {
+      "chinese": "著名",
+      "en": "famous / well-known"
+    },
+    {
+      "chinese": "专家",
+      "en": "expert / specialist"
+    },
+    {
+      "chinese": "专门",
+      "en": "special / specialized"
+    },
+    {
+      "chinese": "专业",
+      "en": "major / specialty"
+    },
+    {
+      "chinese": "转",
+      "en": "turn / transfer"
+    },
+    {
+      "chinese": "转变",
+      "en": "change / transform"
+    },
+    {
+      "chinese": "赚",
+      "en": "earn / make profit"
+    },
+    {
+      "chinese": "装",
+      "en": "pack / install / pretend"
+    },
+    {
+      "chinese": "装饰",
+      "en": "decorate / ornament"
+    },
+    {
+      "chinese": "装修",
+      "en": "decorate / renovate"
+    },
+    {
+      "chinese": "状况",
+      "en": "condition / state"
+    },
+    {
+      "chinese": "状态",
+      "en": "state / condition"
+    },
+    {
+      "chinese": "追",
+      "en": "chase / pursue"
+    },
+    {
+      "chinese": "追求",
+      "en": "pursue / seek"
+    },
+    {
+      "chinese": "准确",
+      "en": "accurate / exact"
+    },
+    {
+      "chinese": "准时",
+      "en": "on time / punctual"
+    },
+    {
+      "chinese": "仔细",
+      "en": "careful / attentive"
+    },
+    {
+      "chinese": "自从",
+      "en": "since"
+    },
+    {
+      "chinese": "自动",
+      "en": "automatic"
+    },
+    {
+      "chinese": "自觉",
+      "en": "conscious / aware"
+    },
+    {
+      "chinese": "自然",
+      "en": "nature / natural"
+    },
+    {
+      "chinese": "自私",
+      "en": "selfish"
+    },
+    {
+      "chinese": "自信",
+      "en": "self-confident"
+    },
+    {
+      "chinese": "自由",
+      "en": "freedom / free"
+    },
+    {
+      "chinese": "总共",
+      "en": "altogether / in total"
+    },
+    {
+      "chinese": "总结",
+      "en": "summarize / summary"
+    },
+    {
+      "chinese": "总理",
+      "en": "premier / prime minister"
+    },
+    {
+      "chinese": "总算",
+      "en": "finally / at last"
+    },
+    {
+      "chinese": "总统",
+      "en": "president (country)"
+    },
+    {
+      "chinese": "总之",
+      "en": "in short / in a word"
+    },
+    {
+      "chinese": "走廊",
+      "en": "corridor / hallway"
+    },
+    {
+      "chinese": "租",
+      "en": "rent"
+    },
+    {
+      "chinese": "组",
+      "en": "group / team"
+    },
+    {
+      "chinese": "组成",
+      "en": "compose / form"
+    },
+    {
+      "chinese": "组合",
+      "en": "combination / assemble"
+    },
+    {
+      "chinese": "组织",
+      "en": "organize / organization"
+    },
+    {
+      "chinese": "嘴",
+      "en": "mouth"
+    },
+    {
+      "chinese": "最初",
+      "en": "initial / original"
+    },
+    {
+      "chinese": "最好",
+      "en": "best / had better"
+    },
+    {
+      "chinese": "罪",
+      "en": "crime / guilt"
+    },
+    {
+      "chinese": "尊敬",
+      "en": "respect / esteem"
+    },
+    {
+      "chinese": "尊重",
+      "en": "respect"
+    },
+    {
+      "chinese": "遵守",
+      "en": "abide by / observe"
+    },
+    {
+      "chinese": "作",
+      "en": "do / make / compose"
+    },
+    {
+      "chinese": "作品",
+      "en": "work / opus"
+    },
+    {
+      "chinese": "作为",
+      "en": "as / regard as"
+    },
+    {
+      "chinese": "作文",
+      "en": "composition / essay"
+    },
+    {
+      "chinese": "作用",
+      "en": "function / role / effect"
+    },
+    {
+      "chinese": "作者",
+      "en": "author / writer"
+    },
+    {
+      "chinese": "座",
+      "en": "seat / measure word"
+    },
+    {
+      "chinese": "座位",
+      "en": "seat"
+    }
+  ]
+}

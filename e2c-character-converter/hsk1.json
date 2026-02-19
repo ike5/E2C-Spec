@@ -1,0 +1,604 @@
+{
+  "words": [
+    {
+      "chinese": "爱",
+      "en": "love"
+    },
+    {
+      "chinese": "八",
+      "en": "eight"
+    },
+    {
+      "chinese": "爸爸",
+      "en": "father"
+    },
+    {
+      "chinese": "杯子",
+      "en": "cup"
+    },
+    {
+      "chinese": "北京",
+      "en": "Beijing"
+    },
+    {
+      "chinese": "本",
+      "en": "measure word for books"
+    },
+    {
+      "chinese": "不",
+      "en": "not"
+    },
+    {
+      "chinese": "不客气",
+      "en": "you're welcome"
+    },
+    {
+      "chinese": "菜",
+      "en": "dish / vegetable"
+    },
+    {
+      "chinese": "茶",
+      "en": "tea"
+    },
+    {
+      "chinese": "吃",
+      "en": "eat"
+    },
+    {
+      "chinese": "出租车",
+      "en": "taxi"
+    },
+    {
+      "chinese": "打电话",
+      "en": "make a phone call"
+    },
+    {
+      "chinese": "大",
+      "en": "big"
+    },
+    {
+      "chinese": "的",
+      "en": "'s / of / (particle)"
+    },
+    {
+      "chinese": "点",
+      "en": "o'clock"
+    },
+    {
+      "chinese": "电脑",
+      "en": "computer"
+    },
+    {
+      "chinese": "电视",
+      "en": "television"
+    },
+    {
+      "chinese": "电影",
+      "en": "movie"
+    },
+    {
+      "chinese": "东西",
+      "en": "thing"
+    },
+    {
+      "chinese": "都",
+      "en": "all / both"
+    },
+    {
+      "chinese": "读",
+      "en": "read"
+    },
+    {
+      "chinese": "对不起",
+      "en": "sorry"
+    },
+    {
+      "chinese": "多",
+      "en": "many / much"
+    },
+    {
+      "chinese": "多少",
+      "en": "how many / how much"
+    },
+    {
+      "chinese": "儿子",
+      "en": "son"
+    },
+    {
+      "chinese": "二",
+      "en": "two"
+    },
+    {
+      "chinese": "饭馆",
+      "en": "restaurant"
+    },
+    {
+      "chinese": "飞机",
+      "en": "airplane"
+    },
+    {
+      "chinese": "分钟",
+      "en": "minute"
+    },
+    {
+      "chinese": "高兴",
+      "en": "happy"
+    },
+    {
+      "chinese": "个",
+      "en": "measure word"
+    },
+    {
+      "chinese": "工作",
+      "en": "work"
+    },
+    {
+      "chinese": "狗",
+      "en": "dog"
+    },
+    {
+      "chinese": "汉语",
+      "en": "Chinese language"
+    },
+    {
+      "chinese": "好",
+      "en": "good"
+    },
+    {
+      "chinese": "号",
+      "en": "day of month / number"
+    },
+    {
+      "chinese": "喝",
+      "en": "drink"
+    },
+    {
+      "chinese": "和",
+      "en": "and / with"
+    },
+    {
+      "chinese": "很",
+      "en": "very"
+    },
+    {
+      "chinese": "后面",
+      "en": "behind"
+    },
+    {
+      "chinese": "回",
+      "en": "return"
+    },
+    {
+      "chinese": "会",
+      "en": "can / know how to"
+    },
+    {
+      "chinese": "几",
+      "en": "how many / several"
+    },
+    {
+      "chinese": "家",
+      "en": "home / family"
+    },
+    {
+      "chinese": "叫",
+      "en": "be called"
+    },
+    {
+      "chinese": "今天",
+      "en": "today"
+    },
+    {
+      "chinese": "九",
+      "en": "nine"
+    },
+    {
+      "chinese": "开",
+      "en": "open / drive"
+    },
+    {
+      "chinese": "看",
+      "en": "see / watch / read"
+    },
+    {
+      "chinese": "看见",
+      "en": "see"
+    },
+    {
+      "chinese": "块",
+      "en": "yuan (money)"
+    },
+    {
+      "chinese": "来",
+      "en": "come"
+    },
+    {
+      "chinese": "老师",
+      "en": "teacher"
+    },
+    {
+      "chinese": "了",
+      "en": "particle (completion)"
+    },
+    {
+      "chinese": "冷",
+      "en": "cold"
+    },
+    {
+      "chinese": "里",
+      "en": "inside"
+    },
+    {
+      "chinese": "六",
+      "en": "six"
+    },
+    {
+      "chinese": "吗",
+      "en": "question particle"
+    },
+    {
+      "chinese": "妈妈",
+      "en": "mother"
+    },
+    {
+      "chinese": "买",
+      "en": "buy"
+    },
+    {
+      "chinese": "猫",
+      "en": "cat"
+    },
+    {
+      "chinese": "没关系",
+      "en": "it doesn't matter"
+    },
+    {
+      "chinese": "没有",
+      "en": "don't have / not"
+    },
+    {
+      "chinese": "米饭",
+      "en": "rice"
+    },
+    {
+      "chinese": "名字",
+      "en": "name"
+    },
+    {
+      "chinese": "明天",
+      "en": "tomorrow"
+    },
+    {
+      "chinese": "哪",
+      "en": "which"
+    },
+    {
+      "chinese": "哪儿",
+      "en": "where"
+    },
+    {
+      "chinese": "那",
+      "en": "that"
+    },
+    {
+      "chinese": "呢",
+      "en": "question particle"
+    },
+    {
+      "chinese": "能",
+      "en": "can / able to"
+    },
+    {
+      "chinese": "你",
+      "en": "you"
+    },
+    {
+      "chinese": "年",
+      "en": "year"
+    },
+    {
+      "chinese": "女儿",
+      "en": "daughter"
+    },
+    {
+      "chinese": "朋友",
+      "en": "friend"
+    },
+    {
+      "chinese": "漂亮",
+      "en": "pretty"
+    },
+    {
+      "chinese": "苹果",
+      "en": "apple"
+    },
+    {
+      "chinese": "七",
+      "en": "seven"
+    },
+    {
+      "chinese": "前面",
+      "en": "front / in front"
+    },
+    {
+      "chinese": "钱",
+      "en": "money"
+    },
+    {
+      "chinese": "请",
+      "en": "please"
+    },
+    {
+      "chinese": "去",
+      "en": "go"
+    },
+    {
+      "chinese": "热",
+      "en": "hot"
+    },
+    {
+      "chinese": "人",
+      "en": "person"
+    },
+    {
+      "chinese": "认识",
+      "en": "know (person) / recognize"
+    },
+    {
+      "chinese": "三",
+      "en": "three"
+    },
+    {
+      "chinese": "商店",
+      "en": "shop"
+    },
+    {
+      "chinese": "上",
+      "en": "on / above"
+    },
+    {
+      "chinese": "上午",
+      "en": "morning"
+    },
+    {
+      "chinese": "少",
+      "en": "few / little"
+    },
+    {
+      "chinese": "谁",
+      "en": "who"
+    },
+    {
+      "chinese": "什么",
+      "en": "what"
+    },
+    {
+      "chinese": "十",
+      "en": "ten"
+    },
+    {
+      "chinese": "时候",
+      "en": "time / when"
+    },
+    {
+      "chinese": "是",
+      "en": "is / am / are"
+    },
+    {
+      "chinese": "书",
+      "en": "book"
+    },
+    {
+      "chinese": "水",
+      "en": "water"
+    },
+    {
+      "chinese": "水果",
+      "en": "fruit"
+    },
+    {
+      "chinese": "睡觉",
+      "en": "sleep"
+    },
+    {
+      "chinese": "说",
+      "en": "speak / say"
+    },
+    {
+      "chinese": "四",
+      "en": "four"
+    },
+    {
+      "chinese": "岁",
+      "en": "years old"
+    },
+    {
+      "chinese": "他",
+      "en": "he"
+    },
+    {
+      "chinese": "她",
+      "en": "she"
+    },
+    {
+      "chinese": "太",
+      "en": "too / extremely"
+    },
+    {
+      "chinese": "天气",
+      "en": "weather"
+    },
+    {
+      "chinese": "听",
+      "en": "listen"
+    },
+    {
+      "chinese": "同学",
+      "en": "classmate"
+    },
+    {
+      "chinese": "喂",
+      "en": "hello (on phone) / hey"
+    },
+    {
+      "chinese": "我",
+      "en": "I / me"
+    },
+    {
+      "chinese": "我们",
+      "en": "we / us"
+    },
+    {
+      "chinese": "五",
+      "en": "five"
+    },
+    {
+      "chinese": "喜欢",
+      "en": "like"
+    },
+    {
+      "chinese": "下",
+      "en": "below / next"
+    },
+    {
+      "chinese": "下午",
+      "en": "afternoon"
+    },
+    {
+      "chinese": "下雨",
+      "en": "rain"
+    },
+    {
+      "chinese": "先生",
+      "en": "Mr. / sir"
+    },
+    {
+      "chinese": "现在",
+      "en": "now"
+    },
+    {
+      "chinese": "想",
+      "en": "want / think"
+    },
+    {
+      "chinese": "小",
+      "en": "small"
+    },
+    {
+      "chinese": "小姐",
+      "en": "Miss"
+    },
+    {
+      "chinese": "些",
+      "en": "some"
+    },
+    {
+      "chinese": "写",
+      "en": "write"
+    },
+    {
+      "chinese": "谢谢",
+      "en": "thank you"
+    },
+    {
+      "chinese": "星期",
+      "en": "week"
+    },
+    {
+      "chinese": "学生",
+      "en": "student"
+    },
+    {
+      "chinese": "学习",
+      "en": "study"
+    },
+    {
+      "chinese": "学校",
+      "en": "school"
+    },
+    {
+      "chinese": "一",
+      "en": "one"
+    },
+    {
+      "chinese": "一点儿",
+      "en": "a little"
+    },
+    {
+      "chinese": "衣服",
+      "en": "clothes"
+    },
+    {
+      "chinese": "医生",
+      "en": "doctor"
+    },
+    {
+      "chinese": "医院",
+      "en": "hospital"
+    },
+    {
+      "chinese": "椅子",
+      "en": "chair"
+    },
+    {
+      "chinese": "有",
+      "en": "have"
+    },
+    {
+      "chinese": "月",
+      "en": "month"
+    },
+    {
+      "chinese": "在",
+      "en": "at / in / on"
+    },
+    {
+      "chinese": "再见",
+      "en": "goodbye"
+    },
+    {
+      "chinese": "怎么",
+      "en": "how"
+    },
+    {
+      "chinese": "怎么样",
+      "en": "how about"
+    },
+    {
+      "chinese": "这",
+      "en": "this"
+    },
+    {
+      "chinese": "中国",
+      "en": "China"
+    },
+    {
+      "chinese": "中午",
+      "en": "noon"
+    },
+    {
+      "chinese": "住",
+      "en": "live"
+    },
+    {
+      "chinese": "桌子",
+      "en": "table"
+    },
+    {
+      "chinese": "字",
+      "en": "character"
+    },
+    {
+      "chinese": "昨天",
+      "en": "yesterday"
+    },
+    {
+      "chinese": "做",
+      "en": "do / make"
+    },
+    {
+      "chinese": "坐",
+      "en": "sit"
+    }
+  ]
+}
