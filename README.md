@@ -1,9 +1,10 @@
-# Chinese Reading Course
+# Universal Logographic Literacy
 
-🌍 **Read this README in:**  
+🌍 **Read this README in:**
 [English](README.md) | [Español](README.es.md)
 
---- 
+---
+
 📘 **Course content:**
 
 - 👉 [English chapters](en/)
@@ -11,10 +12,10 @@
 
 ---
 
-## 学中文 – Learn to Read Chinese
+## 学读 – Learn to Read Logograms
 
-This course is designed for **Spanish speakers** who want to learn how to **read** Mandarin Chinese—without
-needing to learn how to speak it.
+This course is designed for **Spanish speakers** who want to learn how to **read** a logographic writing system—without
+needing to learn how to speak the associated language.
 
 ---
 
@@ -25,7 +26,7 @@ The course uses a **progressive, scaffolded learning approach**:
 1. **One word at a time:** Each new word is introduced with its English translation.
 2. **Sentences with known words:** All practice sentences contain only words you have already learned.
 3. **Continuous story:** Vocabulary is presented within a progressive story about a boy named Ming (小明).
-4. **No pinyin:** This course focuses exclusively on reading **simplified Chinese characters**, with no romanization.
+4. **No romanization:** This course focuses exclusively on reading **logographic characters**, with no romanization.
 
 ---
 
@@ -34,7 +35,7 @@ The course uses a **progressive, scaffolded learning approach**:
 | Chapter | Title                   | Words   | Link                            |
 |--------:|-------------------------|---------|---------------------------------|
 |       1 | The Boy and the Cat     | 1–40    | [chapter_1.md](en/chapter_1.md) |
-|       2 | Ming’s Adventure        | 41–100  | [chapter_2.md](en/chapter_2.md) |
+|       2 | Ming's Adventure        | 41–100  | [chapter_2.md](en/chapter_2.md) |
 |       3 | Ming Makes a New Friend | 101–200 | [chapter_3.md](en/chapter_3.md) |
 |       4 | A Day with Friends      | 201–300 | [chapter_4.md](en/chapter_4.md) |
 |       5 | The Rainy Day Adventure | 301–400 | [chapter_5.md](en/chapter_5.md) |
@@ -68,31 +69,32 @@ The story follows **小明 (Xiǎo Míng)**, a ten-year-old boy:
 - **Chapter 3:** Ming meets 小兰 (Xiǎo Lán) in the park.
 - **Chapter 4:** Ming meets 阿强 (Ā Qiáng) and learns to play soccer.
 - **Chapter 5:** A rainy day brings a rainbow and a beautiful legend.
-- **Chapter 6:** Ming’s friends and family throw him a surprise birthday party.
+- **Chapter 6:** Ming's friends and family throw him a surprise birthday party.
 
 ---
 
 ## Course Features
 
-✅ **500 core vocabulary words** (approximately HSK 1–2)  
-✅ **Simplified Chinese characters**  
-✅ **No pinyin** (reading-only focus)  
-✅ **Clear English translations**  
-✅ **Complete stories** per chapter  
+✅ **500 core vocabulary words**
+✅ **Logographic characters**
+✅ **No romanization** (reading-only focus)
+✅ **Clear English translations**
+✅ **Complete stories** per chapter
 ✅ **Vocabulary lists** for quick reference
 
 ---
 
-## Note on Characters
+## About Logographic Writing Systems
 
-This course uses **simplified Chinese characters** (简体字), which are used in:
+Logographic writing systems use symbols to represent words or morphemes rather than sounds. This course uses the
+**simplified form** of these characters (简体字), which are widely used in:
 
 - Mainland China
 - Singapore
 - Malaysia
 
-If you wish to learn **traditional characters** (used in Taiwan, Hong Kong, and Macau), this course can serve as a solid
-foundation, but you will need additional resources.
+The **traditional form** (used in Taiwan, Hong Kong, and Macau) shares the same underlying meanings and can be learned
+after mastering the simplified form, as the meanings remain consistent across both variants.
 
 ---
 
@@ -102,5 +104,5 @@ foundation, but you will need additional resources.
 
 ---
 
-*祝你学习愉快！*  
+*祝你学习愉快！*
 *(Wishing you an enjoyable learning journey!)*

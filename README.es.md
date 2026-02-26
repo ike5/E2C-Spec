@@ -1,14 +1,14 @@
-# Curso de Lectura de Chino
+# Alfabetización Logográfica Universal
 
-🌍 **Leer este README en:**  
+🌍 **Leer este README en:**
 [English](README.md) | [Español](README.es.md)
 
 ---
 
-## 学中文 – Aprende a Leer Chino
+## 学读 – Aprende a Leer Logogramas
 
-Este curso está diseñado para **hablantes de español latinoamericano** que desean aprender a **leer** chino mandarín sin
-necesidad de aprender a hablarlo.
+Este curso está diseñado para **hablantes de español latinoamericano** que desean aprender a **leer** un sistema de
+escritura logográfico sin necesidad de aprender a hablar el idioma asociado.
 
 ---
 
@@ -19,8 +19,7 @@ El curso utiliza un método de **aprendizaje progresivo por andamiaje (scaffoldi
 1. **Una palabra a la vez:** Cada palabra nueva se introduce con su traducción al español.
 2. **Oraciones con palabras conocidas:** Todas las oraciones de práctica solo contienen palabras que ya has aprendido.
 3. **Historia continua:** Las palabras se presentan dentro de una historia progresiva sobre un niño llamado Ming (小明).
-4. **Sin pinyin:** Este curso se enfoca exclusivamente en la lectura de caracteres chinos simplificados, sin
-   romanización.
+4. **Sin romanización:** Este curso se enfoca exclusivamente en la lectura de caracteres logográficos.
 
 ---
 
@@ -69,25 +68,26 @@ La historia sigue a **小明 (Xiǎo Míng)**, un niño de diez años:
 
 ## Características del Curso
 
-✅ **500 palabras** de vocabulario básico (HSK 1–2 aprox.)  
-✅ **Caracteres simplificados**  
-✅ **Sin pinyin**  
-✅ **Traducciones al español latinoamericano**  
-✅ **Historias completas** por capítulo  
+✅ **500 palabras** de vocabulario básico
+✅ **Caracteres logográficos**
+✅ **Sin romanización** (enfoque solo en lectura)
+✅ **Traducciones al español latinoamericano**
+✅ **Historias completas** por capítulo
 ✅ **Listas de vocabulario** para referencia rápida
 
 ---
 
-## Nota sobre Caracteres
+## Acerca de los Sistemas de Escritura Logográficos
 
-Este curso usa **caracteres chinos simplificados** (简体字), utilizados en:
+Los sistemas de escritura logográficos utilizan símbolos para representar palabras o morfemas en lugar de sonidos. Este
+curso utiliza la **forma simplificada** de estos caracteres (简体字), que se usa ampliamente en:
 
 - China continental
 - Singapur
 - Malasia
 
-Si deseas aprender caracteres tradicionales (usados en Taiwán, Hong Kong y Macao), este curso puede servir como base,
-pero necesitarás recursos adicionales.
+La **forma tradicional** (usada en Taiwán, Hong Kong y Macao) comparte los mismos significados subyacentes y puede
+aprenderse después de dominar la forma simplificada, ya que los significados permanecen consistentes en ambas variantes.
 
 ---
 
@@ -97,5 +97,5 @@ pero necesitarás recursos adicionales.
 
 ---
 
-*祝你学习愉快！*  
+*祝你学习愉快！*
 *(¡Te deseo un aprendizaje agradable!)*
